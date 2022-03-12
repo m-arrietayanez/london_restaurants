@@ -1,0 +1,1001 @@
+names,cuisine,price,reviews,rating,bookings,address
+Seasons Mayfair,Fish,4,41,4.3,8,Mayfair
+PAPA L's KITCHEN,African,4,257,4.6,6,St. James's
+Coqbull Soho,Rotisserie Chicken,2,175,4.1,47,Soho
+Ham Yard Bar and Restaurant,Modern European,2,3696,4.6,92,Soho
+El Norte,Spanish,4,296,4.5,45,Mayfair
+Park Row,Modern European,4,485,4.6,195,Soho
+Bill's Restaurant & Bar - Soho,British,2,1289,4.2,147,Soho
+Whitcomb's,French,4,193,4.6,13,Leicester Square
+temper Soho,Steak,4,3083,4.2,88,Soho
+Maoz Soho,Middle Eastern,2,231,4.3,33,Soho
+The Ivy Soho Brasserie,Breakfast,2,7059,4.2,260,Soho
+Happy,European,2,1498,4.4,165,Leicester Square
+Gaucho Piccadilly,Steak,4,10083,4.2,74,Piccadilly
+Pierre Victoire,French,2,4365,4.6,41,Soho
+Forty Dean Street,Italian,3,2183,4.5,66,Soho
+Tamarind Kitchen,Indian,3,1057,4.6,39,Soho
+Fishworks - Swallow Street,Seafood,2,2750,4.4,34,Piccadilly
+ROBATA,Japanese,3,953,4.4,46,Soho
+Prix Fixe Brasserie,French,3,2877,4.5,30,Soho
+Sarap Bistro,Filipino,4,72,4.6,19,Mayfair
+Heddon Street Kitchen,Modern European,3,2213,4.2,94,Piccadilly
+Farzi Cafe,Indian,3,892,4.3,36,Piccadilly
+Lobos Meat & Tapas - Soho,Spanish,2,1503,4.5,66,Soho
+Rowley's Restaurant,British,4,1900,4.5,19,Piccadilly
+Estiatorio Milos – London,Seafood,4,1473,4.6,70,Piccadilly
+Vasco & Piero's Pavilion Restaurant,Italian,3,1109,4.6,10,Soho
+Green Bar at Hotel Cafe Royal,Bar / Lounge / Bottle Service,3,65,4.5,3,Piccadilly
+Orient London,Chinese,2,772,4.5,12,Soho
+ZIMA Russian Restaurant,Russian,3,683,4.7,32,Soho
+Kanishka,Indian,4,1085,4.4,36,Mayfair
+INO GASTROBAR,Greek,3,98,4.5,11,Soho
+Pix Carnaby,Tapas / Small Plates,2,443,4.1,16,Soho
+Refuel Restaurant at The Soho Hotel,Modern European,2,2619,4.5,9,Soho
+Ruby's Soho,Contemporary British,2,262,4.0,12,Soho
+The Rainforest Cafe London,American,3,3091,NA,185,Piccadilly
+Aqua Kyoto,Japanese,4,613,4.4,13,Soho
+SOLA SOHO,Californian,4,124,4.6,8,Soho
+Macellaio RC Soho,Steak,3,55,4.3,8,Soho
+Suvlaki Soho,Greek,2,739,4.6,17,Soho
+Red Dog Saloon Soho,American,2,642,4.0,32,Soho
+The Good Egg Soho,Middle Eastern,2,396,4.3,16,Soho
+Patara - Soho,Thai,3,3331,4.4,37,Soho
+Obicà Mozzarella Bar - Poland Street,Italian,2,578,4.3,19,Oxford Circus
+Pix - Soho,Tapas / Small Plates,2,766,4.2,24,Soho
+Preto West End,Steakhouse,2,574,3.9,42,Leicester Square
+O Ver St James,Italian,3,113,4.4,15,Piccadilly
+BaoziInn - Romilly Street,Dim Sum,2,767,3.9,54,Soho
+Inamo - Soho,Japanese,3,4538,3.3,46,Soho
+8 at The Londoner,Japanese,4,96,4.3,17,Soho
+Cecconi's Pizza Bar,Pizza Bar,2,392,4.3,30,Soho
+Co&Ko,Korean,2,168,4.4,8,Soho
+Bubba Gump Shrimp Co London,American,2,935,NA,76,Piccadilly
+The Black Book,Bar / Lounge / Bottle Service,3,74,4.6,30,Soho
+Aqua Nueva,Spanish,4,285,4.3,7,Soho
+Bistro 1 Soho,Turkish,2,42,4.4,6,Soho
+Bosporus,Turkish,3,313,3.9,NA,Leicester Square
+Jam Delish@ The Sun & 13 Cantons,Caribbean,3,2,3.0,14,Soho
+Poppies Soho,Fish,2,19,4.3,5,Soho
+Heliot Steak House,Steakhouse,3,3013,4.6,27,Leicester Square
+Marsha Soho,Contemporary European,2,NA,NA,6,Soho
+Aquavit London,Nordic,3,1030,4.5,6,St. James's
+Rooms by the Hour,Tapas / Small Plates,2,51,4.3,7,Soho
+Granaio Piccadilly,Italian,2,32,NA,4,Leicester Square
+FIELD by Fortnum's,Contemporary British,3,15,3.7,9,Piccadilly
+The Stage at the Londoner,Modern European,4,12,4.3,2,Soho
+100 Wardour St Bar & Lounge,European,3,315,4.0,6,Soho
+Soho Wala,Indian,2,95,3.1,3,Soho
+Maison Francois,French,4,8,4.3,2,St. James's
+Amici Lounge Bar & Restaurant,Lebanese,3,2,NA,2,Soho
+Mayfair Lounge and Grill,British,3,600,NA,NA,Piccadilly
+Lords,Californian,2,3,4.0,NA,Soho
+Soho Zebrano,Burgers,2,35,3.5,NA,Soho
+temper Covent Garden,Steak,3,1224,4.3,79,Covent Garden
+Foley's Restaurant,Asian,3,284,4.6,5,Fitzrovia
+J Sheekey - The Restaurant,Seafood,4,1207,4.6,137,Covent Garden
+Palm Court Brasserie,Contemporary French,2,13335,4.5,53,Covent Garden
+Hakkasan - Hanway Place,Chinese,4,6341,4.2,15,Fitzrovia
+Maxwell's,American,2,3351,4.3,89,Covent Garden
+Tamarind,Indian,4,2855,4.8,33,Mayfair
+May Fair Kitchen,Unspecified,2,515,4.6,20,Mayfair
+Kintan Oxford Circus,Japanese (Yakiniku),2,1334,4.5,76,Oxford Circus
+Ivy Market Grill,Breakfast,3,11589,4.2,264,Covent Garden
+Le Garrick - Covent Garden,French,2,3091,4.6,41,Covent Garden
+Brumus - Haymarket,British,2,2582,4.6,9,Piccadilly
+Mr White's Leicester Square,International,2,151,4.0,68,Charing Cross
+La Rampa,Latin American,3,176,4.5,17,Oxford Circus
+Bocconcino,Italian,3,1522,4.0,70,Mayfair
+Flesh & Buns Oxford Circus,Japanese,3,1035,4.5,48,Oxford Circus
+The Riding House Cafe,Modern European,3,3874,4.4,102,Fitzrovia
+The NoMad London,American,3,399,4.7,101,Covent Garden
+Bagatelle London,French,4,181,4.4,12,Mayfair
+Manthan,Indian,3,64,4.4,NA,Oxford Circus
+Monmouth Kitchen,Unspecified,2,1247,4.5,12,Covent Garden
+Ginza St. James's,Japanese,4,116,4.1,22,Piccadilly
+123V,Vegan,2,355,4.6,17,Oxford Circus
+Vespa,Italian,2,206,4.4,7,Leicester Square
+Portland Restaurant,British,4,1397,4.8,28,Marylebone
+The Avocado Show London,Breakfast,2,20,4.6,5,Oxford Circus
+Lima London,Peruvian,3,1419,4.5,9,Fitzrovia
+Plants by Deliciously Ella,Vegan,3,716,4.4,48,Mayfair
+Seasons Mayfair,Fish,4,41,4.3,8,Mayfair
+PAPA L's KITCHEN,African,4,257,4.6,6,St. James's
+Coqbull Soho,Rotisserie Chicken,2,175,4.1,47,Soho
+Ham Yard Bar and Restaurant,Modern European,2,3696,4.6,92,Soho
+El Norte,Spanish,4,296,4.5,45,Mayfair
+Park Row,Modern European,4,485,4.6,195,Soho
+Bill's Restaurant & Bar - Soho,British,2,1289,4.2,147,Soho
+Whitcomb's,French,4,193,4.6,13,Leicester Square
+temper Soho,Steak,4,3083,4.2,88,Soho
+Maoz Soho,Middle Eastern,2,231,4.3,33,Soho
+The Ivy Soho Brasserie,Breakfast,2,7059,4.2,260,Soho
+Happy,European,2,1498,4.4,165,Leicester Square
+Gaucho Piccadilly,Steak,4,10083,4.2,74,Piccadilly
+Pierre Victoire,French,2,4365,4.6,41,Soho
+Forty Dean Street,Italian,3,2183,4.5,66,Soho
+Tamarind Kitchen,Indian,3,1057,4.6,39,Soho
+Fishworks - Swallow Street,Seafood,2,2750,4.4,34,Piccadilly
+ROBATA,Japanese,3,953,4.4,46,Soho
+Prix Fixe Brasserie,French,3,2877,4.5,30,Soho
+Sarap Bistro,Filipino,4,72,4.6,19,Mayfair
+Heddon Street Kitchen,Modern European,3,2213,4.2,94,Piccadilly
+Farzi Cafe,Indian,3,892,4.3,36,Piccadilly
+Lobos Meat & Tapas - Soho,Spanish,2,1503,4.5,66,Soho
+Rowley's Restaurant,British,4,1900,4.5,19,Piccadilly
+Estiatorio Milos – London,Seafood,4,1473,4.6,70,Piccadilly
+Vasco & Piero's Pavilion Restaurant,Italian,3,1109,4.6,10,Soho
+Green Bar at Hotel Cafe Royal,Bar / Lounge / Bottle Service,3,65,4.5,3,Piccadilly
+Orient London,Chinese,2,772,4.5,12,Soho
+ZIMA Russian Restaurant,Russian,3,683,4.7,32,Soho
+Kanishka,Indian,4,1085,4.4,36,Mayfair
+INO GASTROBAR,Greek,3,98,4.5,11,Soho
+Pix Carnaby,Tapas / Small Plates,2,443,4.1,16,Soho
+Refuel Restaurant at The Soho Hotel,Modern European,2,2619,4.5,9,Soho
+Ruby's Soho,Contemporary British,2,262,4.0,12,Soho
+The Rainforest Cafe London,American,3,3091,NA,185,Piccadilly
+Aqua Kyoto,Japanese,4,613,4.4,13,Soho
+SOLA SOHO,Californian,4,124,4.6,8,Soho
+Macellaio RC Soho,Steak,3,55,4.3,8,Soho
+Suvlaki Soho,Greek,2,739,4.6,17,Soho
+Red Dog Saloon Soho,American,2,642,4.0,32,Soho
+The Good Egg Soho,Middle Eastern,2,396,4.3,16,Soho
+Patara - Soho,Thai,3,3331,4.4,37,Soho
+Obicà Mozzarella Bar - Poland Street,Italian,2,578,4.3,19,Oxford Circus
+Pix - Soho,Tapas / Small Plates,2,766,4.2,24,Soho
+Preto West End,Steakhouse,2,574,3.9,42,Leicester Square
+O Ver St James,Italian,3,113,4.4,15,Piccadilly
+BaoziInn - Romilly Street,Dim Sum,2,767,3.9,54,Soho
+Inamo - Soho,Japanese,3,4538,3.3,46,Soho
+8 at The Londoner,Japanese,4,96,4.3,17,Soho
+Cecconi's Pizza Bar,Pizza Bar,2,392,4.3,30,Soho
+Co&Ko,Korean,2,168,4.4,8,Soho
+Bubba Gump Shrimp Co London,American,2,935,NA,76,Piccadilly
+The Black Book,Bar / Lounge / Bottle Service,3,74,4.6,30,Soho
+Aqua Nueva,Spanish,4,285,4.3,7,Soho
+Bistro 1 Soho,Turkish,2,42,4.4,6,Soho
+Bosporus,Turkish,3,313,3.9,NA,Leicester Square
+Jam Delish@ The Sun & 13 Cantons,Caribbean,3,2,3.0,14,Soho
+Poppies Soho,Fish,2,19,4.3,5,Soho
+Heliot Steak House,Steakhouse,3,3013,4.6,27,Leicester Square
+Marsha Soho,Contemporary European,2,NA,NA,6,Soho
+Aquavit London,Nordic,3,1030,4.5,6,St. James's
+Rooms by the Hour,Tapas / Small Plates,2,51,4.3,7,Soho
+Granaio Piccadilly,Italian,2,32,NA,4,Leicester Square
+FIELD by Fortnum's,Contemporary British,3,15,3.7,9,Piccadilly
+The Stage at the Londoner,Modern European,4,12,4.3,2,Soho
+100 Wardour St Bar & Lounge,European,3,315,4.0,6,Soho
+Soho Wala,Indian,2,95,3.1,3,Soho
+Maison Francois,French,4,8,4.3,2,St. James's
+Amici Lounge Bar & Restaurant,Lebanese,3,2,NA,2,Soho
+Mayfair Lounge and Grill,British,3,600,NA,NA,Piccadilly
+Lords,Californian,2,3,4.0,NA,Soho
+Soho Zebrano,Burgers,2,35,3.5,NA,Soho
+temper Covent Garden,Steak,3,1224,4.3,79,Covent Garden
+Foley's Restaurant,Asian,3,284,4.6,5,Fitzrovia
+J Sheekey - The Restaurant,Seafood,4,1207,4.6,137,Covent Garden
+Palm Court Brasserie,Contemporary French,2,13335,4.5,53,Covent Garden
+Hakkasan - Hanway Place,Chinese,4,6341,4.2,15,Fitzrovia
+Maxwell's,American,2,3351,4.3,89,Covent Garden
+Tamarind,Indian,4,2855,4.8,33,Mayfair
+May Fair Kitchen,Unspecified,2,515,4.6,20,Mayfair
+Kintan Oxford Circus,Japanese (Yakiniku),2,1334,4.5,76,Oxford Circus
+Ivy Market Grill,Breakfast,3,11589,4.2,264,Covent Garden
+Le Garrick - Covent Garden,French,2,3091,4.6,41,Covent Garden
+Brumus - Haymarket,British,2,2582,4.6,9,Piccadilly
+Mr White's Leicester Square,International,2,151,4.0,68,Charing Cross
+La Rampa,Latin American,3,176,4.5,17,Oxford Circus
+Bocconcino,Italian,3,1522,4.0,70,Mayfair
+Flesh & Buns Oxford Circus,Japanese,3,1035,4.5,48,Oxford Circus
+The Riding House Cafe,Modern European,3,3874,4.4,102,Fitzrovia
+The NoMad London,American,3,399,4.7,101,Covent Garden
+Bagatelle London,French,4,181,4.4,12,Mayfair
+Manthan,Indian,3,64,4.4,NA,Oxford Circus
+Monmouth Kitchen,Unspecified,2,1247,4.5,12,Covent Garden
+Ginza St. James's,Japanese,4,116,4.1,22,Piccadilly
+123V,Vegan,2,355,4.6,17,Oxford Circus
+Vespa,Italian,2,206,4.4,7,Leicester Square
+Portland Restaurant,British,4,1397,4.8,28,Marylebone
+The Avocado Show London,Breakfast,2,20,4.6,5,Oxford Circus
+Lima London,Peruvian,3,1419,4.5,9,Fitzrovia
+Plants by Deliciously Ella,Vegan,3,716,4.4,48,Mayfair
+House of Ho - Fitzrovia,Pan-Asian,2,241,4.5,19,Fitzrovia
+Brasserie Max - Covent Garden,English,2,939,4.6,13,Leicester Square
+Bloomsbury Street Kitchen,Mediterranean,3,197,4.5,5,Bloomsbury
+The Rooftop at The Hippodrome Casino,International,4,190,4.5,23,Leicester Square
+Afternoon Tea at The Biltmore Hotel,Afternoon Tea,4,18,4.3,NA,Mayfair
+Aubaine Mayfair,Contemporary French,3,806,4.0,29,Green Park
+Floral by Lima,Peruvian,3,1094,4.3,22,Covent Garden
+Ekstedt at the Yard,Nordic,4,116,4.7,9,Westminster
+Sergios,Italian,3,815,4.7,14,Fitzrovia
+Jeru,Middle Eastern,4,NA,NA,NA,Piccadilly
+Fatt Pundit Covent Garden,Indian,2,75,4.4,55,Aldwych
+Le Boudin Blanc,French,3,1200,4.7,22,Mayfair
+Blind Spot London,British,3,226,4.5,36,Covent Garden
+L'ulivo Villiers Street,Italian,3,953,4.3,18,Charing Cross
+Prima Sapori D'Italia,Italian,2,408,4.3,29,Covent Garden
+Bab Mansour,Mediterranean,2,17,4.8,3,Holborn
+Madera at Treehouse London,Mexican,4,135,4.4,34,Marylebone
+Titu,Japanese,3,252,4.6,10,Mayfair
+Leicester Square Kitchen,Mexican,4,1324,4.5,6,Leicester Square
+No.6 Cavendish,Bar / Lounge / Bottle Service,4,56,4.9,7,Marylebone
+Big Easy Covent Garden,American,3,6760,3.4,NA,Covent Garden
+Boozy Tea Room,Lounge,3,183,4.3,5,Leicester Square
+The Northall at Corinthia London,Contemporary European,3,2814,4.6,6,Covent Garden
+Gordon Ramsay Street Burger — Covent Garden,Burgers,2,149,4.3,46,Aldwych
+MARIAGE FRÈRES,French,2,186,4.6,20,Covent Garden
+Oscar Restaurant,Modern European,2,597,4.4,29,Fitzrovia
+BEAST,Steak,4,417,4.6,11,Oxford Circus
+Gordon Ramsay Street Burger — Charing Cross Road,Burgers,2,180,4.0,35,Bank
+Giannino Mayfair,Italian,4,125,4.6,4,Mayfair
+RedFarm,Chinese,3,417,4.6,28,Covent Garden
+Coravin Wine Bar,Bar / Lounge / Bottle Service,3,26,4.4,9,Oxford Circus
+The Footman - Mayfair,British,2,184,4.5,12,Mayfair
+Moc Kitchen,Vietnamese,2,164,4.5,3,Charing Cross
+45 Jermyn St.,British,4,1305,4.7,2,St. James's
+Kazu,Japanese,4,221,4.5,23,Fitzrovia
+L'Artiste Muscle,French,2,89,4.6,5,Mayfair
+Antipodea Richmond,Australian,2,309,4.3,30,Richmond
+Kurobuta Fitzrovia,Contemporary Asian,4,12,4.6,10,Fitzrovia
+21Soho,Bar / Lounge / Bottle Service,2,16,4.4,1,Soho
+The 40 Elephants,Cocktail Bar,3,44,4.8,6,Westminster
+In Parma by Food Roots,Italian,2,349,4.4,6,Fitzrovia
+Al Hamra,Lebanese,3,276,4.4,8,Mayfair
+Gaucho Charlotte Street,Steak,4,1834,4.4,14,Fitzrovia
+Bond Street Kitchen,British,3,120,4.3,3,Mayfair
+Beso London,Italian,2,360,4.1,20,Covent Garden
+Mother Mash Covent Garden,British,2,18,3.8,6,Trafalgar Square
+Greyhound Cafe,Thai,3,237,4.4,2,Fitzrovia
+Ousia,Greek,2,95,4.6,4,Fitzrovia
+Itaku,Japanese Speciality,3,6,3.6,3,Fitzrovia
+Scoff & Banter Tea Rooms - Oxford Street,Unspecified,2,774,4.5,9,Oxford Circus
+Bobo Social Fitzrovia,International,2,19,4.8,2,Fitzrovia
+Archipelago,"Global, International",4,396,4.6,NA,Fitzrovia
+Chesterfield Arms,British,2,24,4.5,3,Mayfair
+Bisushima,Japanese,3,12,4.3,NA,Charing Cross
+May Fair Bar,International,3,50,4.3,NA,Mayfair
+The Restaurant at St Martins Lane London,British,3,118,3.5,3,Leicester Square
+Caviar House & Prunier,Seafood,3,83,4.8,2,Green Park
+The Rooftop,Contemporary European,3,413,3.6,4,St. James's
+Rockwell,Cocktail Bar,3,62,4.2,2,St. James's
+Queens of Mayfair,British,2,47,4.1,10,Mayfair
+The Garden at Corinthia London,European,2,181,4.6,4,Charing Cross
+Comptoir Café and Wine,Mediterranean,2,93,4.6,2,Mayfair
+Al Sultan,Lebanese,3,181,4.2,1,Green Park
+Stringfellows - Gentleman's Club and Restaurant,Contemporary European,4,17,4.3,NA,Covent Garden
+Spaghetti House Goodge Street,Italian,2,85,4.1,1,Fitzrovia
+Spaghetti House Woodstock Street,Italian,2,21,4.0,1,Mayfair
+Noura Mayfair,Lebanese,3,129,3.9,1,Mayfair
+Savoir Faire,French,2,2341,4.0,6,Covent Garden
+RAI,Japanese,4,3,3.7,NA,Fitzrovia
+1857 The Bar,British,2,42,4.0,1,Green Park
+Afternoon Tea at Caffe Concerto - Northumberland Av,Italian,2,27,3.7,2,Piccadilly
+Giotto Macellaio,Italian,3,NA,NA,1,Bloomsbury
+Angus Steakhouse Woodstock St,English,2,NA,NA,NA,Mayfair
+Madison at The Washington Mayfair Hotel,International,3,NA,NA,NA,Mayfair
+Hachi Japanese BBQ Restaurant,Japanese,2,268,4.6,33,Soho
+Brasserie Zedel,French,2,3148,4.5,18,Piccadilly
+The Monarch Theatre at Park Row,"Global, International",4,27,4.9,5,Soho
+Mele E Pere,Italian,2,1694,4.4,NA,Soho
+Blacklock Soho,Steak,2,3767,4.8,76,Soho
+Hawksmoor Air Street,Steakhouse,2,9296,4.7,143,Piccadilly
+Hard Rock Cafe London Piccadilly Circus,American,2,3362,4.6,140,Piccadilly
+Engawa Restaurant,Japanese,4,778,4.5,32,Soho
+Afternoon Tea at the Oscar Wilde Lounge,Afternoon Tea,4,1734,4.7,6,Piccadilly
+Andrew Edmunds,Modern European,3,710,4.7,33,Soho
+Sticks'n'Sushi - Soho,Sushi,2,23,4.7,6,Soho
+Folie,Contemporary French,3,53,4.5,3,Soho
+Old Compton Brasserie,British,2,1934,4.5,77,Soho
+Cakes & Bubbles at Hotel Cafe Royal,Dessert,3,698,4.6,8,Piccadilly
+Yauatcha Soho,Chinese,3,6691,4.3,30,Soho
+Afternoon Tea at Bafarat Cafe,Afternoon Tea,2,4,3.8,NA,Soho
+Jinjuu Soho,Korean,3,1747,4.5,39,Soho
+Dean Street Townhouse,British,3,2975,4.6,102,Soho
+MADHU’S of Mayfair,Indian,4,317,4.4,20,Mayfair
+Tendril - A (mostly) vegan kitchen,Vegetarian / Vegan,2,47,4.6,2,Soho
+Cecconi's,Italian,3,1852,4.6,95,Mayfair
+Inko Nito London,Japanese,3,10,4.8,4,Soho
+Gauthier Soho,French,4,3735,4.8,16,Soho
+L'Escargot,French,3,3394,4.6,10,Soho
+Imperial Treasure,Chinese,4,532,4.5,50,Piccadilly
+Negroni's,Italian,3,110,4.5,53,Soho
+Lucky Cat by Gordon Ramsay,Asian,4,694,4.3,58,Mayfair
+Saint Jacques,French,4,227,4.7,5,St. James's
+Quaglino's,Contemporary European,3,1511,4.3,NA,Green Park
+La Goccia,Italian,4,1336,4.5,5,Covent Garden
+Jamavar,Indian,4,919,4.7,6,Mayfair
+St Martin's House,Contemporary British,3,NA,NA,NA,Covent Garden
+"The Petersham, Covent Garden",Italian,4,1145,4.4,33,Covent Garden
+2 Veneti,Italian,3,1356,4.6,5,Mayfair
+Côte Brasserie - St Martin's Lane,French,2,18,4.1,NA,Leicester Square
+Bardo St James’s,Italian,4,5,4.5,1,Charing Cross
+Inamo - Covent Garden,Asian,3,4269,3.6,NA,Covent Garden
+Ochre Restaurant,British,3,NA,NA,NA,Charing Cross
+Le Comptoir Robuchon,French,4,28,4.9,8,Mayfair
+Stalls - London Coliseum,Bar / Lounge / Bottle Service,2,NA,NA,NA,Charing Cross
+American Bar Restaurant,Contemporary European,3,702,4.3,NA,Covent Garden
+"Afternoon Tea at Monmouth Kitchen, Covent Garden",Afternoon Tea,3,20,4.3,1,Covent Garden
+KIKUCHI,Sushi,4,153,4.8,4,Fitzrovia
+IT London,Mediterranean,4,27,4.0,2,Mayfair
+"Les 110 de Taillevent, London",French,3,266,4.8,5,Oxford Circus
+The London Cheese Crawl - Food Tour,Continental,3,NA,NA,NA,Green Park
+Langan's Brasserie,British,4,4248,4.4,5,Green Park
+Arros QD,Mediterranean,3,96,4.3,1,Fitzrovia
+ROKA - Charlotte Street,Japanese,4,190,4.7,7,Fitzrovia
+Mimi Mei Fair,Chinese,4,NA,NA,NA,Mayfair
+Thai Square Covent Garden,Thai,3,530,4.4,4,Leicester Square
+Bindas Eatery- Mayfair,Indian,2,113,4.1,NA,Mayfair
+Com Viet,Vietnamese,2,524,4.5,2,Covent Garden
+Meraki Restaurant,Greek,4,117,4.7,4,Fitzrovia
+The Game Bird,British,4,481,4.6,2,Green Park
+Fumo,Italian,2,121,4.4,2,Covent Garden
+Yalla Yalla Winsley St,Lebanese,2,88,4.3,4,Marylebone
+Delfino Restaurant,Italian,2,550,4.6,2,Mayfair
+Sotheby’s Restaurant,Modern European,3,50,4.7,7,Mayfair
+Berkshire Lounge Bar,British,3,1,4.5,NA,Oxford Circus
+Bellamy's,Modern European,3,281,4.6,1,Mayfair
+Afternoon Tea at The Radisson Blu Edwardian Kenilworth,Afternoon Tea,3,15,3.6,NA,Fitzrovia
+Afternoon Tea at The Bloomsbury Street Hotel,Afternoon Tea,3,21,3.7,NA,Bloomsbury
+Murano,Contemporary European,4,2089,4.6,NA,Mayfair
+Afternoon Tea at Caffe Concerto Green Park,Italian,2,20,3.8,NA,Green Park
+Ormer Mayfair,British,4,933,4.9,1,Mayfair
+GBR - Great British Restaurant @ Dukes London,British,2,383,4.6,2,St. James's
+Afternoon Tea at Corinthia London,Afternoon Tea,4,1136,4.8,5,Charing Cross
+Hélène Darroze at The Connaught,French,4,752,4.6,5,Mayfair
+Eve Bar by Adam Handling,Bar / Lounge / Bottle Service,3,73,4.4,10,Aldwych
+Thai Square Trafalgar Square,Thai,3,1766,3.9,2,Charing Cross
+The Drawing Room At DUKES LONDON (Afternoon Tea),Afternoon Tea,3,141,4.5,NA,Green Park
+"Afternoon Tea at The Petersham, Covent Garden",Afternoon Tea,4,11,4.3,1,Covent Garden
+The Jones Family Affair,Steakhouse,3,6,4.9,6,Charing Cross
+Kerridge’s Bar & Grill,British,3,80,4.6,NA,Westminster
+Da Paolo Restaurant,Italian,3,884,4.7,NA,Fitzrovia
+Locket's,European,2,5,4.2,1,St. James's
+Manetta's Bar,British,2,76,4.9,3,Mayfair
+Punjab Restaurant,Indian,2,80,4.6,NA,Holborn
+Pahli Hill,Indian,3,11,4.7,NA,Fitzrovia
+The Drawing Room at Brown's Hotel,Afternoon Tea,4,41,4.3,NA,Mayfair
+Palms of Goa,Indian,2,12,4.6,2,Fitzrovia
+The Wine Place Covent Garden,Italian,2,115,4.6,NA,Soho
+Afternoon Tea at The Chesterfield Mayfair,Afternoon Tea,4,100,4.4,NA,Mayfair
+The Parlour at Great Scotland Yard,Afternoon Tea,4,13,4.9,7,Westminster
+Sticks'n'Sushi - Covent Garden,Sushi,2,20,4.8,NA,Covent Garden
+Jean-Georges At The Connaught,Bistro,3,158,4.7,3,Mayfair
+Café Murano - St James,Italian,3,1730,4.5,NA,St. James's
+Caffe Concerto Green Park,Italian,2,85,3.5,NA,Green Park
+Pied A Terre,French,4,308,4.6,NA,Fitzrovia
+Caffe Concerto - Whitehall,Italian,2,76,4.3,NA,Piccadilly
+Da Henrietta,Italian,3,369,4.2,NA,Covent Garden
+Ping Pong Covent Garden,Asian,2,94,4.0,NA,Covent Garden
+"The Clermont Restaurant and Bar, Charing Cross",Modern European,2,29,4.5,NA,Charing Cross
+Avenue Restaurant,Contemporary European,3,664,4.4,2,Green Park
+The Elysée,Greek,4,169,4.3,NA,Fitzrovia
+Pizzeria Mozza,Pizzeria,2,10,4.1,4,Oxford Circus
+The Crusting Pipe,British,3,381,4.0,2,Covent Garden
+Parsons,Fish,3,264,4.7,NA,Covent Garden
+Champagne Charlies,British,3,340,3.9,NA,Charing Cross
+Chefs Table at Lucky Cat by Gordon Ramsay,Asian,4,20,4.8,1,Mayfair
+Noizé,Modern European,4,120,4.8,NA,Fitzrovia
+The Den at St Martins Lane London,Afternoon Tea,3,150,4.3,NA,Covent Garden
+Salvador and Amanda Covent Garden,Spanish,2,478,4.1,7,Leicester Square
+The Foyer & Reading Rooms at Claridge’s,Modern European,3,284,4.8,NA,Mayfair
+Caffé Concerto - Oxford Street,Italian,2,12,3.4,NA,Mayfair
+Mamounia Lounge - Mayfair,Lebanese,3,241,3.7,1,Mayfair
+Koba,Korean,3,1327,4.7,NA,Soho
+Pane Cunzato,Italian,2,23,4.6,NA,Bloomsbury
+Afternoon Tea at Jean-Georges at The Connaught,Afternoon Tea,4,49,4.5,1,Mayfair
+Afternoon Tea @ B Bakery,Afternoon Tea,3,273,4.3,NA,Covent Garden
+Giotto Restaurant,Italian,2,91,4.0,NA,Covent Garden
+Phoenix Arts Club,British,2,293,4.4,NA,Soho
+Creme de la Crepe,Creperie,2,26,4.2,1,Covent Garden
+Davy's St James,British,3,79,3.9,NA,St. James's
+Wild Honey Terrace at Sofitel,Mediterranean,3,17,4.6,NA,Charing Cross
+Spaghetti House Cranbourn Street,Italian,2,99,3.8,1,Leicester Square
+Henry's Cafe Bar Piccadilly,British,3,1,4.5,NA,Green Park
+Afternoon Tea at Caffe Concerto Whitehall,Italian,2,22,3.9,NA,Leicester Square
+The Arber Garden,British,3,695,4.3,NA,Fitzrovia
+Bonds Mayfair,Pub,2,6,4.4,NA,Mayfair
+Butlers at The Chesterfield,British,3,257,4.1,NA,Mayfair
+1989 Clubhouse,Pan-Asian,2,1,NA,NA,Covent Garden
+Tea and Tattle,British,3,66,4.4,1,Bloomsbury
+Norma London,Sicilian,3,20,4.5,NA,Fitzrovia
+Quaglino's Bar,Modern European,2,7,4.5,NA,Green Park
+The Long Acre,British,2,26,3.2,NA,Covent Garden
+Bar Salsa!,Latin American,2,85,3.5,NA,Leicester Square
+Loop Bar,British,2,1199,4.0,NA,Oxford Circus
+College Arms,Pub,2,NA,NA,NA,Fitzrovia
+Lady of the Grapes,Wine Bar,3,69,4.4,NA,Covent Garden
+Scoff & Banter - Bloomsbury,British,2,360,3.8,NA,Bloomsbury
+Lucky Cat - Kori Kitchen Table,Asian,4,NA,NA,NA,Mayfair
+Afternoon Tea at The May Fair Hotel,Afternoon Tea,4,137,4.4,NA,Mayfair
+KILN,Thai,2,NA,NA,NA,London Bridge
+Foxlow Soho,British,2,600,4.3,NA,Soho
+Bob Bob Ricard,American,2,NA,NA,NA,Piccadilly
+El Pastor - Soho,Mexican,2,NA,NA,NA,Soho
+HIX Soho Restaurant & Bar,British,4,1856,3.9,NA,Soho
+HIX Soho – Mark’s Bar,British,2,NA,NA,NA,Soho
+MASH,Steakhouse,4,1683,4.4,NA,Soho
+Yolk - Soho,Burgers,2,NA,NA,NA,Soho
+The Queen's Head,British,2,139,4.3,NA,Piccadilly
+XU Teahouse & Restaurant,Asian,3,67,4.4,NA,Piccadilly
+Clockjack,Contemporary European,2,180,3.8,NA,Piccadilly
+"Jamie's Italian, Piccadilly",Italian,3,309,3.7,NA,Piccadilly
+Jeow Jeow,Thai,2,10,4.6,NA,Soho
+Pampushka,Eastern European,2,27,4.4,NA,Soho
+Yeni,Mediterranean,3,253,4.6,NA,Soho
+Epoc,Bar / Lounge / Bottle Service,2,NA,NA,NA,Soho
+Wild Rice London,Thai,3,53,4.0,NA,Soho
+Ramo Ramen - Soho,Filipino,2,NA,NA,NA,Soho
+Polpo London,Italian,2,NA,NA,NA,London Bridge
+NOPI,Mediterranean,4,5888,4.5,NA,Soho
+"NOPI - Downstairs, Sharing Tables",Mediterranean,4,1762,4.5,NA,Soho
+Afternoon Tea at the Soho Sanctum Hotel,Afternoon Tea,3,6,3.2,NA,Soho
+El Camion Soho,Mexican,2,384,4.0,NA,Covent Garden
+Oka Kingly Court,Japanese,3,774,4.6,NA,Oxford Circus
+Sophie's Steakhouse Soho,Steakhouse,2,362,4.2,NA,Soho
+Wildheart,British,3,13,3.9,NA,Soho
+Ma' Plucker,American,2,32,3.6,NA,Soho
+The Warwick,British,2,25,3.2,NA,Piccadilly
+Cutter & Squidge,Afternoon Tea,3,457,4.3,NA,Soho
+Afternoon Tea at the Potion Room,Afternoon Tea,4,NA,NA,NA,Soho
+Signature Afternoon Tea at Cutter & Squidge,Afternoon Tea,3,NA,NA,NA,Soho
+The Domino Room,British,4,2,4.4,NA,Piccadilly
+Jewel Piccadilly,Bar / Lounge / Bottle Service,2,5,NA,NA,Piccadilly
+Green Bar at Hotel Cafe Royal - permanently closed,Contemporary American,2,3,4.4,NA,Piccadilly
+Magnum Pleasure Store: Chef's Table,Dessert,2,34,4.6,NA,Soho
+The Sky Bar & Lounge,Bar / Lounge / Bottle Service,2,NA,NA,NA,Soho
+Yoobi Soho,International,2,2,3.4,NA,Soho
+Mildred's - Soho,Vegetarian / Vegan,2,NA,NA,NA,Soho
+Yalla Yalla Soho,Middle Eastern,2,12,4.3,NA,Soho
+Rita's,Cafe Dining,2,NA,NA,NA,Soho
+Grace,British,2,1168,3.9,NA,Piccadilly
+Afternoon Tea in the Domino Room,Afternoon Tea,4,7,4.6,NA,Piccadilly
+Mister Lasagna,Italian,2,23,3.4,NA,Soho
+Paradise,Sri Lankan,2,NA,NA,NA,Soho
+Le Bab,Middle Eastern,2,64,4.1,NA,Soho
+Figaro's,French,2,NA,NA,NA,Soho
+Senor Ceviche - Carnaby,Peruvian,3,417,4.6,NA,Oxford Circus
+Stax Diner,Burgers,2,3,4.8,NA,Soho
+Yoshino,Japanese,2,NA,NA,NA,Piccadilly
+Benihana Piccadilly,Japanese,3,5661,4.6,NA,Piccadilly
+Rumours,European,3,88,3.2,NA,Mayfair
+Gaucho Training School,American,2,NA,NA,NA,Piccadilly
+Ziggy Green,Australian,3,5,4.2,NA,Oxford Circus
+Fratelli la Bufala,Italian,2,NA,NA,NA,Piccadilly
+Moo Cantina Soho,Argentinian,2,NA,NA,NA,Soho
+Polpetto,Italian,3,11,4.2,NA,Soho
+Fallow,British,3,NA,NA,NA,Mayfair
+The Duck and Rice,Asian,2,67,4.4,NA,Soho
+Pacific Restaurant,Japanese,2,9,4.4,NA,Mayfair
+Magpie,Modern European,3,152,4.5,NA,Mayfair
+Fortnum & Mason - Wine Bar,British,2,573,4.2,NA,Piccadilly
+Terrace at The Dilly,International,2,NA,NA,NA,Mayfair
+Piccolino Heddon Street,Italian,3,453,4.0,NA,Oxford Circus
+Aubaine Heddon Street,French,3,544,3.7,NA,Piccadilly
+Cafe Monico,International,2,1590,4.2,NA,Soho
+Bentley's Oyster Bar & Grill,Seafood,3,2888,4.3,NA,Piccadilly
+Sabor,Spanish,2,NA,NA,NA,Piccadilly
+Pickle & Toast,Unspecified,2,NA,NA,NA,Soho
+The Cuckoo Club,International,2,NA,NA,NA,Mayfair
+Sports Bar & Grill Piccadilly Circus,American,2,28,3.6,NA,Piccadilly
+Martha's Soho,American,2,16,NA,NA,Soho
+Terrace Grill and Bar,British,3,1749,4.1,NA,Piccadilly
+Dehesa,Tapas / Small Plates,3,29,4.4,NA,Soho
+Social Eating House,Contemporary British,3,2230,4.3,NA,Soho
+Tank & Paddle Heddon Street,Pizzeria,2,45,4.3,NA,Piccadilly
+Evelyn's Table,Italian,4,222,4.8,NA,Soho
+Jakata,Modern European,2,NA,NA,NA,Covent Garden
+Carnaby Zebrano,Modern European,2,52,3.6,NA,Soho
+Imad's Syrian Kitchen,Syrian,2,NA,NA,NA,Soho
+The Mulwray,Wine Bar,2,NA,NA,NA,Soho
+Mediterranean Café,Mediterranean,2,299,4.1,NA,Soho
+Yuu Kitchen at ICEBAR London,Southeast Asian,3,9,4.2,NA,Mayfair
+Casa Do Frango Heddon St,Rotisserie Chicken,2,NA,NA,NA,Mayfair
+Tapas Brindisa Rupert Street,Spanish,2,356,4.1,NA,Piccadilly
+Rudy's Neapolitan Pizza,Pizzeria,2,NA,NA,NA,Soho
+Rice Coming - Chinatown,Chinese,2,2,3.9,NA,Soho
+Vesuvio Restaurant,Italian,2,8,3.9,NA,Soho
+Peperoncino,Italian,2,8,3.8,NA,Piccadilly
+Pizza Toscana,Italian,2,306,4.2,NA,Soho
+Princi - Shaftesbury Avenue.,Italian,2,9,4.0,NA,Soho
+HO Modern Vietnamese - Permanently Closed,Vietnamese,3,84,3.8,NA,Soho
+The Araki,Sushi,2,NA,NA,NA,Oxford Circus
+The Long Acre,British,2,26,3.2,NA,Covent Garden
+Bar Salsa!,Latin American,2,85,3.5,NA,Leicester Square
+Loop Bar,British,2,1199,4.0,NA,Oxford Circus
+College Arms,Pub,2,NA,NA,NA,Fitzrovia
+Lady of the Grapes,Wine Bar,3,69,4.4,NA,Covent Garden
+Scoff & Banter - Bloomsbury,British,2,360,3.8,NA,Bloomsbury
+Lucky Cat - Kori Kitchen Table,Asian,4,NA,NA,NA,Mayfair
+Afternoon Tea at The May Fair Hotel,Afternoon Tea,4,137,4.4,NA,Mayfair
+KILN,Thai,2,NA,NA,NA,London Bridge
+Foxlow Soho,British,2,600,4.3,NA,Soho
+Bob Bob Ricard,American,2,NA,NA,NA,Piccadilly
+El Pastor - Soho,Mexican,2,NA,NA,NA,Soho
+HIX Soho Restaurant & Bar,British,4,1856,3.9,NA,Soho
+HIX Soho – Mark’s Bar,British,2,NA,NA,NA,Soho
+MASH,Steakhouse,4,1683,4.4,NA,Soho
+Yolk - Soho,Burgers,2,NA,NA,NA,Soho
+The Queen's Head,British,2,139,4.3,NA,Piccadilly
+XU Teahouse & Restaurant,Asian,3,67,4.4,NA,Piccadilly
+Clockjack,Contemporary European,2,180,3.8,NA,Piccadilly
+"Jamie's Italian, Piccadilly",Italian,3,309,3.7,NA,Piccadilly
+Jeow Jeow,Thai,2,10,4.6,NA,Soho
+Pampushka,Eastern European,2,27,4.4,NA,Soho
+Yeni,Mediterranean,3,253,4.6,NA,Soho
+Epoc,Bar / Lounge / Bottle Service,2,NA,NA,NA,Soho
+Wild Rice London,Thai,3,53,4.0,NA,Soho
+Ramo Ramen - Soho,Filipino,2,NA,NA,NA,Soho
+Polpo London,Italian,2,NA,NA,NA,London Bridge
+NOPI,Mediterranean,4,5888,4.5,NA,Soho
+"NOPI - Downstairs, Sharing Tables",Mediterranean,4,1762,4.5,NA,Soho
+Afternoon Tea at the Soho Sanctum Hotel,Afternoon Tea,3,6,3.2,NA,Soho
+El Camion Soho,Mexican,2,384,4.0,NA,Covent Garden
+Oka Kingly Court,Japanese,3,774,4.6,NA,Oxford Circus
+Sophie's Steakhouse Soho,Steakhouse,2,362,4.2,NA,Soho
+Wildheart,British,3,13,3.9,NA,Soho
+Ma' Plucker,American,2,32,3.6,NA,Soho
+The Warwick,British,2,25,3.2,NA,Piccadilly
+Cutter & Squidge,Afternoon Tea,3,457,4.3,NA,Soho
+Afternoon Tea at the Potion Room,Afternoon Tea,4,NA,NA,NA,Soho
+Signature Afternoon Tea at Cutter & Squidge,Afternoon Tea,3,NA,NA,NA,Soho
+The Domino Room,British,4,2,4.4,NA,Piccadilly
+Jewel Piccadilly,Bar / Lounge / Bottle Service,2,5,NA,NA,Piccadilly
+Green Bar at Hotel Cafe Royal - permanently closed,Contemporary American,2,3,4.4,NA,Piccadilly
+Magnum Pleasure Store: Chef's Table,Dessert,2,34,4.6,NA,Soho
+The Sky Bar & Lounge,Bar / Lounge / Bottle Service,2,NA,NA,NA,Soho
+Yoobi Soho,International,2,2,3.4,NA,Soho
+Mildred's - Soho,Vegetarian / Vegan,2,NA,NA,NA,Soho
+Yalla Yalla Soho,Middle Eastern,2,12,4.3,NA,Soho
+Rita's,Cafe Dining,2,NA,NA,NA,Soho
+Grace,British,2,1168,3.9,NA,Piccadilly
+Afternoon Tea in the Domino Room,Afternoon Tea,4,7,4.6,NA,Piccadilly
+Mister Lasagna,Italian,2,23,3.4,NA,Soho
+Paradise,Sri Lankan,2,NA,NA,NA,Soho
+Le Bab,Middle Eastern,2,64,4.1,NA,Soho
+Figaro's,French,2,NA,NA,NA,Soho
+Senor Ceviche - Carnaby,Peruvian,3,417,4.6,NA,Oxford Circus
+Stax Diner,Burgers,2,3,4.8,NA,Soho
+Yoshino,Japanese,2,NA,NA,NA,Piccadilly
+Benihana Piccadilly,Japanese,3,5661,4.6,NA,Piccadilly
+Rumours,European,3,88,3.2,NA,Mayfair
+Gaucho Training School,American,2,NA,NA,NA,Piccadilly
+Ziggy Green,Australian,3,5,4.2,NA,Oxford Circus
+Fratelli la Bufala,Italian,2,NA,NA,NA,Piccadilly
+Moo Cantina Soho,Argentinian,2,NA,NA,NA,Soho
+Polpetto,Italian,3,11,4.2,NA,Soho
+Fallow,British,3,NA,NA,NA,Mayfair
+The Duck and Rice,Asian,2,67,4.4,NA,Soho
+Pacific Restaurant,Japanese,2,9,4.4,NA,Mayfair
+Magpie,Modern European,3,152,4.5,NA,Mayfair
+Fortnum & Mason - Wine Bar,British,2,573,4.2,NA,Piccadilly
+Terrace at The Dilly,International,2,NA,NA,NA,Mayfair
+Piccolino Heddon Street,Italian,3,453,4.0,NA,Oxford Circus
+Aubaine Heddon Street,French,3,544,3.7,NA,Piccadilly
+Cafe Monico,International,2,1590,4.2,NA,Soho
+Bentley's Oyster Bar & Grill,Seafood,3,2888,4.3,NA,Piccadilly
+Sabor,Spanish,2,NA,NA,NA,Piccadilly
+Pickle & Toast,Unspecified,2,NA,NA,NA,Soho
+The Cuckoo Club,International,2,NA,NA,NA,Mayfair
+Sports Bar & Grill Piccadilly Circus,American,2,28,3.6,NA,Piccadilly
+Martha's Soho,American,2,16,NA,NA,Soho
+Terrace Grill and Bar,British,3,1749,4.1,NA,Piccadilly
+Dehesa,Tapas / Small Plates,3,29,4.4,NA,Soho
+Social Eating House,Contemporary British,3,2230,4.3,NA,Soho
+Tank & Paddle Heddon Street,Pizzeria,2,45,4.3,NA,Piccadilly
+Evelyn's Table,Italian,4,222,4.8,NA,Soho
+Jakata,Modern European,2,NA,NA,NA,Covent Garden
+Carnaby Zebrano,Modern European,2,52,3.6,NA,Soho
+Imad's Syrian Kitchen,Syrian,2,NA,NA,NA,Soho
+The Mulwray,Wine Bar,2,NA,NA,NA,Soho
+Mediterranean Café,Mediterranean,2,299,4.1,NA,Soho
+Yuu Kitchen at ICEBAR London,Southeast Asian,3,9,4.2,NA,Mayfair
+Casa Do Frango Heddon St,Rotisserie Chicken,2,NA,NA,NA,Mayfair
+Tapas Brindisa Rupert Street,Spanish,2,356,4.1,NA,Piccadilly
+Rudy's Neapolitan Pizza,Pizzeria,2,NA,NA,NA,Soho
+Rice Coming - Chinatown,Chinese,2,2,3.9,NA,Soho
+Vesuvio Restaurant,Italian,2,8,3.9,NA,Soho
+Peperoncino,Italian,2,8,3.8,NA,Piccadilly
+Pizza Toscana,Italian,2,306,4.2,NA,Soho
+Princi - Shaftesbury Avenue.,Italian,2,9,4.0,NA,Soho
+HO Modern Vietnamese - Permanently Closed,Vietnamese,3,84,3.8,NA,Soho
+The Araki,Sushi,2,NA,NA,NA,Oxford Circus
+The Long Acre,British,2,26,3.2,NA,Covent Garden
+Bar Salsa!,Latin American,2,85,3.5,NA,Leicester Square
+Loop Bar,British,2,1199,4.0,NA,Oxford Circus
+College Arms,Pub,2,NA,NA,NA,Fitzrovia
+Lady of the Grapes,Wine Bar,3,69,4.4,NA,Covent Garden
+Scoff & Banter - Bloomsbury,British,2,360,3.8,NA,Bloomsbury
+Lucky Cat - Kori Kitchen Table,Asian,4,NA,NA,NA,Mayfair
+Afternoon Tea at The May Fair Hotel,Afternoon Tea,4,137,4.4,NA,Mayfair
+KILN,Thai,2,NA,NA,NA,London Bridge
+Foxlow Soho,British,2,600,4.3,NA,Soho
+Bob Bob Ricard,American,2,NA,NA,NA,Piccadilly
+El Pastor - Soho,Mexican,2,NA,NA,NA,Soho
+HIX Soho Restaurant & Bar,British,4,1856,3.9,NA,Soho
+HIX Soho – Mark’s Bar,British,2,NA,NA,NA,Soho
+MASH,Steakhouse,4,1683,4.4,NA,Soho
+Yolk - Soho,Burgers,2,NA,NA,NA,Soho
+The Queen's Head,British,2,139,4.3,NA,Piccadilly
+XU Teahouse & Restaurant,Asian,3,67,4.4,NA,Piccadilly
+Clockjack,Contemporary European,2,180,3.8,NA,Piccadilly
+"Jamie's Italian, Piccadilly",Italian,3,309,3.7,NA,Piccadilly
+Jeow Jeow,Thai,2,10,4.6,NA,Soho
+Pampushka,Eastern European,2,27,4.4,NA,Soho
+Yeni,Mediterranean,3,253,4.6,NA,Soho
+Epoc,Bar / Lounge / Bottle Service,2,NA,NA,NA,Soho
+Wild Rice London,Thai,3,53,4.0,NA,Soho
+Ramo Ramen - Soho,Filipino,2,NA,NA,NA,Soho
+Polpo London,Italian,2,NA,NA,NA,London Bridge
+NOPI,Mediterranean,4,5888,4.5,NA,Soho
+"NOPI - Downstairs, Sharing Tables",Mediterranean,4,1762,4.5,NA,Soho
+Afternoon Tea at the Soho Sanctum Hotel,Afternoon Tea,3,6,3.2,NA,Soho
+El Camion Soho,Mexican,2,384,4.0,NA,Covent Garden
+Oka Kingly Court,Japanese,3,774,4.6,NA,Oxford Circus
+Sophie's Steakhouse Soho,Steakhouse,2,362,4.2,NA,Soho
+Wildheart,British,3,13,3.9,NA,Soho
+Ma' Plucker,American,2,32,3.6,NA,Soho
+The Warwick,British,2,25,3.2,NA,Piccadilly
+Cutter & Squidge,Afternoon Tea,3,457,4.3,NA,Soho
+Afternoon Tea at the Potion Room,Afternoon Tea,4,NA,NA,NA,Soho
+Signature Afternoon Tea at Cutter & Squidge,Afternoon Tea,3,NA,NA,NA,Soho
+The Domino Room,British,4,2,4.4,NA,Piccadilly
+Jewel Piccadilly,Bar / Lounge / Bottle Service,2,5,NA,NA,Piccadilly
+Green Bar at Hotel Cafe Royal - permanently closed,Contemporary American,2,3,4.4,NA,Piccadilly
+Magnum Pleasure Store: Chef's Table,Dessert,2,34,4.6,NA,Soho
+The Sky Bar & Lounge,Bar / Lounge / Bottle Service,2,NA,NA,NA,Soho
+Yoobi Soho,International,2,2,3.4,NA,Soho
+Mildred's - Soho,Vegetarian / Vegan,2,NA,NA,NA,Soho
+Yalla Yalla Soho,Middle Eastern,2,12,4.3,NA,Soho
+Rita's,Cafe Dining,2,NA,NA,NA,Soho
+Grace,British,2,1168,3.9,NA,Piccadilly
+Afternoon Tea in the Domino Room,Afternoon Tea,4,7,4.6,NA,Piccadilly
+Mister Lasagna,Italian,2,23,3.4,NA,Soho
+Paradise,Sri Lankan,2,NA,NA,NA,Soho
+Le Bab,Middle Eastern,2,64,4.1,NA,Soho
+Figaro's,French,2,NA,NA,NA,Soho
+Senor Ceviche - Carnaby,Peruvian,3,417,4.6,NA,Oxford Circus
+Stax Diner,Burgers,2,3,4.8,NA,Soho
+Yoshino,Japanese,2,NA,NA,NA,Piccadilly
+Benihana Piccadilly,Japanese,3,5661,4.6,NA,Piccadilly
+Rumours,European,3,88,3.2,NA,Mayfair
+Gaucho Training School,American,2,NA,NA,NA,Piccadilly
+Ziggy Green,Australian,3,5,4.2,NA,Oxford Circus
+Fratelli la Bufala,Italian,2,NA,NA,NA,Piccadilly
+Moo Cantina Soho,Argentinian,2,NA,NA,NA,Soho
+Polpetto,Italian,3,11,4.2,NA,Soho
+Fallow,British,3,NA,NA,NA,Mayfair
+The Duck and Rice,Asian,2,67,4.4,NA,Soho
+Pacific Restaurant,Japanese,2,9,4.4,NA,Mayfair
+Magpie,Modern European,3,152,4.5,NA,Mayfair
+Fortnum & Mason - Wine Bar,British,2,573,4.2,NA,Piccadilly
+Terrace at The Dilly,International,2,NA,NA,NA,Mayfair
+Piccolino Heddon Street,Italian,3,453,4.0,NA,Oxford Circus
+Aubaine Heddon Street,French,3,544,3.7,NA,Piccadilly
+Cafe Monico,International,2,1590,4.2,NA,Soho
+Bentley's Oyster Bar & Grill,Seafood,3,2888,4.3,NA,Piccadilly
+Sabor,Spanish,2,NA,NA,NA,Piccadilly
+Pickle & Toast,Unspecified,2,NA,NA,NA,Soho
+The Cuckoo Club,International,2,NA,NA,NA,Mayfair
+Sports Bar & Grill Piccadilly Circus,American,2,28,3.6,NA,Piccadilly
+Martha's Soho,American,2,16,NA,NA,Soho
+Terrace Grill and Bar,British,3,1749,4.1,NA,Piccadilly
+Dehesa,Tapas / Small Plates,3,29,4.4,NA,Soho
+Social Eating House,Contemporary British,3,2230,4.3,NA,Soho
+Tank & Paddle Heddon Street,Pizzeria,2,45,4.3,NA,Piccadilly
+Evelyn's Table,Italian,4,222,4.8,NA,Soho
+Jakata,Modern European,2,NA,NA,NA,Covent Garden
+Carnaby Zebrano,Modern European,2,52,3.6,NA,Soho
+Imad's Syrian Kitchen,Syrian,2,NA,NA,NA,Soho
+The Mulwray,Wine Bar,2,NA,NA,NA,Soho
+Mediterranean Café,Mediterranean,2,299,4.1,NA,Soho
+Yuu Kitchen at ICEBAR London,Southeast Asian,3,9,4.2,NA,Mayfair
+Casa Do Frango Heddon St,Rotisserie Chicken,2,NA,NA,NA,Mayfair
+Tapas Brindisa Rupert Street,Spanish,2,356,4.1,NA,Piccadilly
+Rudy's Neapolitan Pizza,Pizzeria,2,NA,NA,NA,Soho
+Rice Coming - Chinatown,Chinese,2,2,3.9,NA,Soho
+Vesuvio Restaurant,Italian,2,8,3.9,NA,Soho
+Peperoncino,Italian,2,8,3.8,NA,Piccadilly
+Pizza Toscana,Italian,2,306,4.2,NA,Soho
+Princi - Shaftesbury Avenue.,Italian,2,9,4.0,NA,Soho
+HO Modern Vietnamese - Permanently Closed,Vietnamese,3,84,3.8,NA,Soho
+The Araki,Sushi,2,NA,NA,NA,Oxford Circus
+The Long Acre,British,2,26,3.2,NA,Covent Garden
+Bar Salsa!,Latin American,2,85,3.5,NA,Leicester Square
+Loop Bar,British,2,1199,4.0,NA,Oxford Circus
+College Arms,Pub,2,NA,NA,NA,Fitzrovia
+Lady of the Grapes,Wine Bar,3,69,4.4,NA,Covent Garden
+Scoff & Banter - Bloomsbury,British,2,360,3.8,NA,Bloomsbury
+Lucky Cat - Kori Kitchen Table,Asian,4,NA,NA,NA,Mayfair
+Afternoon Tea at The May Fair Hotel,Afternoon Tea,4,137,4.4,NA,Mayfair
+KILN,Thai,2,NA,NA,NA,London Bridge
+Foxlow Soho,British,2,600,4.3,NA,Soho
+Bob Bob Ricard,American,2,NA,NA,NA,Piccadilly
+El Pastor - Soho,Mexican,2,NA,NA,NA,Soho
+HIX Soho Restaurant & Bar,British,4,1856,3.9,NA,Soho
+HIX Soho – Mark’s Bar,British,2,NA,NA,NA,Soho
+MASH,Steakhouse,4,1683,4.4,NA,Soho
+Yolk - Soho,Burgers,2,NA,NA,NA,Soho
+The Queen's Head,British,2,139,4.3,NA,Piccadilly
+XU Teahouse & Restaurant,Asian,3,67,4.4,NA,Piccadilly
+Clockjack,Contemporary European,2,180,3.8,NA,Piccadilly
+"Jamie's Italian, Piccadilly",Italian,3,309,3.7,NA,Piccadilly
+Jeow Jeow,Thai,2,10,4.6,NA,Soho
+Pampushka,Eastern European,2,27,4.4,NA,Soho
+Yeni,Mediterranean,3,253,4.6,NA,Soho
+Epoc,Bar / Lounge / Bottle Service,2,NA,NA,NA,Soho
+Wild Rice London,Thai,3,53,4.0,NA,Soho
+Ramo Ramen - Soho,Filipino,2,NA,NA,NA,Soho
+Polpo London,Italian,2,NA,NA,NA,London Bridge
+NOPI,Mediterranean,4,5888,4.5,NA,Soho
+"NOPI - Downstairs, Sharing Tables",Mediterranean,4,1762,4.5,NA,Soho
+Afternoon Tea at the Soho Sanctum Hotel,Afternoon Tea,3,6,3.2,NA,Soho
+El Camion Soho,Mexican,2,384,4.0,NA,Covent Garden
+Oka Kingly Court,Japanese,3,774,4.6,NA,Oxford Circus
+Sophie's Steakhouse Soho,Steakhouse,2,362,4.2,NA,Soho
+Wildheart,British,3,13,3.9,NA,Soho
+Ma' Plucker,American,2,32,3.6,NA,Soho
+The Warwick,British,2,25,3.2,NA,Piccadilly
+Cutter & Squidge,Afternoon Tea,3,457,4.3,NA,Soho
+Afternoon Tea at the Potion Room,Afternoon Tea,4,NA,NA,NA,Soho
+Signature Afternoon Tea at Cutter & Squidge,Afternoon Tea,3,NA,NA,NA,Soho
+The Domino Room,British,4,2,4.4,NA,Piccadilly
+Jewel Piccadilly,Bar / Lounge / Bottle Service,2,5,NA,NA,Piccadilly
+Green Bar at Hotel Cafe Royal - permanently closed,Contemporary American,2,3,4.4,NA,Piccadilly
+Magnum Pleasure Store: Chef's Table,Dessert,2,34,4.6,NA,Soho
+The Sky Bar & Lounge,Bar / Lounge / Bottle Service,2,NA,NA,NA,Soho
+Yoobi Soho,International,2,2,3.4,NA,Soho
+Mildred's - Soho,Vegetarian / Vegan,2,NA,NA,NA,Soho
+Yalla Yalla Soho,Middle Eastern,2,12,4.3,NA,Soho
+Rita's,Cafe Dining,2,NA,NA,NA,Soho
+Grace,British,2,1168,3.9,NA,Piccadilly
+Afternoon Tea in the Domino Room,Afternoon Tea,4,7,4.6,NA,Piccadilly
+Mister Lasagna,Italian,2,23,3.4,NA,Soho
+Paradise,Sri Lankan,2,NA,NA,NA,Soho
+Le Bab,Middle Eastern,2,64,4.1,NA,Soho
+Figaro's,French,2,NA,NA,NA,Soho
+Senor Ceviche - Carnaby,Peruvian,3,417,4.6,NA,Oxford Circus
+Stax Diner,Burgers,2,3,4.8,NA,Soho
+Yoshino,Japanese,2,NA,NA,NA,Piccadilly
+Benihana Piccadilly,Japanese,3,5661,4.6,NA,Piccadilly
+Rumours,European,3,88,3.2,NA,Mayfair
+Gaucho Training School,American,2,NA,NA,NA,Piccadilly
+Ziggy Green,Australian,3,5,4.2,NA,Oxford Circus
+Fratelli la Bufala,Italian,2,NA,NA,NA,Piccadilly
+Moo Cantina Soho,Argentinian,2,NA,NA,NA,Soho
+Polpetto,Italian,3,11,4.2,NA,Soho
+Fallow,British,3,NA,NA,NA,Mayfair
+The Duck and Rice,Asian,2,67,4.4,NA,Soho
+Pacific Restaurant,Japanese,2,9,4.4,NA,Mayfair
+Magpie,Modern European,3,152,4.5,NA,Mayfair
+Fortnum & Mason - Wine Bar,British,2,573,4.2,NA,Piccadilly
+Terrace at The Dilly,International,2,NA,NA,NA,Mayfair
+Piccolino Heddon Street,Italian,3,453,4.0,NA,Oxford Circus
+Aubaine Heddon Street,French,3,544,3.7,NA,Piccadilly
+Cafe Monico,International,2,1590,4.2,NA,Soho
+Bentley's Oyster Bar & Grill,Seafood,3,2888,4.3,NA,Piccadilly
+Sabor,Spanish,2,NA,NA,NA,Piccadilly
+Pickle & Toast,Unspecified,2,NA,NA,NA,Soho
+The Cuckoo Club,International,2,NA,NA,NA,Mayfair
+Sports Bar & Grill Piccadilly Circus,American,2,28,3.6,NA,Piccadilly
+Martha's Soho,American,2,16,NA,NA,Soho
+Terrace Grill and Bar,British,3,1749,4.1,NA,Piccadilly
+Dehesa,Tapas / Small Plates,3,29,4.4,NA,Soho
+Social Eating House,Contemporary British,3,2230,4.3,NA,Soho
+Tank & Paddle Heddon Street,Pizzeria,2,45,4.3,NA,Piccadilly
+Evelyn's Table,Italian,4,222,4.8,NA,Soho
+Jakata,Modern European,2,NA,NA,NA,Covent Garden
+Carnaby Zebrano,Modern European,2,52,3.6,NA,Soho
+Imad's Syrian Kitchen,Syrian,2,NA,NA,NA,Soho
+The Mulwray,Wine Bar,2,NA,NA,NA,Soho
+Mediterranean Café,Mediterranean,2,299,4.1,NA,Soho
+Yuu Kitchen at ICEBAR London,Southeast Asian,3,9,4.2,NA,Mayfair
+Casa Do Frango Heddon St,Rotisserie Chicken,2,NA,NA,NA,Mayfair
+Tapas Brindisa Rupert Street,Spanish,2,356,4.1,NA,Piccadilly
+Rudy's Neapolitan Pizza,Pizzeria,2,NA,NA,NA,Soho
+Rice Coming - Chinatown,Chinese,2,2,3.9,NA,Soho
+Vesuvio Restaurant,Italian,2,8,3.9,NA,Soho
+Peperoncino,Italian,2,8,3.8,NA,Piccadilly
+Pizza Toscana,Italian,2,306,4.2,NA,Soho
+Princi - Shaftesbury Avenue.,Italian,2,9,4.0,NA,Soho
+HO Modern Vietnamese - Permanently Closed,Vietnamese,3,84,3.8,NA,Soho
+The Araki,Sushi,2,NA,NA,NA,Oxford Circus
+The Long Acre,British,2,26,3.2,NA,Covent Garden
+Bar Salsa!,Latin American,2,85,3.5,NA,Leicester Square
+Loop Bar,British,2,1199,4.0,NA,Oxford Circus
+College Arms,Pub,2,NA,NA,NA,Fitzrovia
+Lady of the Grapes,Wine Bar,3,69,4.4,NA,Covent Garden
+Scoff & Banter - Bloomsbury,British,2,360,3.8,NA,Bloomsbury
+Lucky Cat - Kori Kitchen Table,Asian,4,NA,NA,NA,Mayfair
+Afternoon Tea at The May Fair Hotel,Afternoon Tea,4,137,4.4,NA,Mayfair
+KILN,Thai,2,NA,NA,NA,London Bridge
+Foxlow Soho,British,2,600,4.3,NA,Soho
+Bob Bob Ricard,American,2,NA,NA,NA,Piccadilly
+El Pastor - Soho,Mexican,2,NA,NA,NA,Soho
+HIX Soho Restaurant & Bar,British,4,1856,3.9,NA,Soho
+HIX Soho – Mark’s Bar,British,2,NA,NA,NA,Soho
+MASH,Steakhouse,4,1683,4.4,NA,Soho
+Yolk - Soho,Burgers,2,NA,NA,NA,Soho
+The Queen's Head,British,2,139,4.3,NA,Piccadilly
+XU Teahouse & Restaurant,Asian,3,67,4.4,NA,Piccadilly
+Clockjack,Contemporary European,2,180,3.8,NA,Piccadilly
+"Jamie's Italian, Piccadilly",Italian,3,309,3.7,NA,Piccadilly
+Jeow Jeow,Thai,2,10,4.6,NA,Soho
+Pampushka,Eastern European,2,27,4.4,NA,Soho
+Yeni,Mediterranean,3,253,4.6,NA,Soho
+Epoc,Bar / Lounge / Bottle Service,2,NA,NA,NA,Soho
+Wild Rice London,Thai,3,53,4.0,NA,Soho
+Ramo Ramen - Soho,Filipino,2,NA,NA,NA,Soho
+Polpo London,Italian,2,NA,NA,NA,London Bridge
+NOPI,Mediterranean,4,5888,4.5,NA,Soho
+"NOPI - Downstairs, Sharing Tables",Mediterranean,4,1762,4.5,NA,Soho
+Afternoon Tea at the Soho Sanctum Hotel,Afternoon Tea,3,6,3.2,NA,Soho
+El Camion Soho,Mexican,2,384,4.0,NA,Covent Garden
+Oka Kingly Court,Japanese,3,774,4.6,NA,Oxford Circus
+Sophie's Steakhouse Soho,Steakhouse,2,362,4.2,NA,Soho
+Wildheart,British,3,13,3.9,NA,Soho
+Ma' Plucker,American,2,32,3.6,NA,Soho
+The Warwick,British,2,25,3.2,NA,Piccadilly
+Cutter & Squidge,Afternoon Tea,3,457,4.3,NA,Soho
+Afternoon Tea at the Potion Room,Afternoon Tea,4,NA,NA,NA,Soho
+Signature Afternoon Tea at Cutter & Squidge,Afternoon Tea,3,NA,NA,NA,Soho
+The Domino Room,British,4,2,4.4,NA,Piccadilly
+Jewel Piccadilly,Bar / Lounge / Bottle Service,2,5,NA,NA,Piccadilly
+Green Bar at Hotel Cafe Royal - permanently closed,Contemporary American,2,3,4.4,NA,Piccadilly
+Magnum Pleasure Store: Chef's Table,Dessert,2,34,4.6,NA,Soho
+The Sky Bar & Lounge,Bar / Lounge / Bottle Service,2,NA,NA,NA,Soho
+Yoobi Soho,International,2,2,3.4,NA,Soho
+Mildred's - Soho,Vegetarian / Vegan,2,NA,NA,NA,Soho
+Yalla Yalla Soho,Middle Eastern,2,12,4.3,NA,Soho
+Rita's,Cafe Dining,2,NA,NA,NA,Soho
+Grace,British,2,1168,3.9,NA,Piccadilly
+Afternoon Tea in the Domino Room,Afternoon Tea,4,7,4.6,NA,Piccadilly
+Mister Lasagna,Italian,2,23,3.4,NA,Soho
+Paradise,Sri Lankan,2,NA,NA,NA,Soho
+Le Bab,Middle Eastern,2,64,4.1,NA,Soho
+Figaro's,French,2,NA,NA,NA,Soho
+Senor Ceviche - Carnaby,Peruvian,3,417,4.6,NA,Oxford Circus
+Stax Diner,Burgers,2,3,4.8,NA,Soho
+Yoshino,Japanese,2,NA,NA,NA,Piccadilly
+Benihana Piccadilly,Japanese,3,5661,4.6,NA,Piccadilly
+Rumours,European,3,88,3.2,NA,Mayfair
+Gaucho Training School,American,2,NA,NA,NA,Piccadilly
+Ziggy Green,Australian,3,5,4.2,NA,Oxford Circus
+Fratelli la Bufala,Italian,2,NA,NA,NA,Piccadilly
+Moo Cantina Soho,Argentinian,2,NA,NA,NA,Soho
+Polpetto,Italian,3,11,4.2,NA,Soho
+Fallow,British,3,NA,NA,NA,Mayfair
+The Duck and Rice,Asian,2,67,4.4,NA,Soho
+Pacific Restaurant,Japanese,2,9,4.4,NA,Mayfair
+Magpie,Modern European,3,152,4.5,NA,Mayfair
+Fortnum & Mason - Wine Bar,British,2,573,4.2,NA,Piccadilly
+Terrace at The Dilly,International,2,NA,NA,NA,Mayfair
+Piccolino Heddon Street,Italian,3,453,4.0,NA,Oxford Circus
+Aubaine Heddon Street,French,3,544,3.7,NA,Piccadilly
+Cafe Monico,International,2,1590,4.2,NA,Soho
+Bentley's Oyster Bar & Grill,Seafood,3,2888,4.3,NA,Piccadilly
+Sabor,Spanish,2,NA,NA,NA,Piccadilly
+Pickle & Toast,Unspecified,2,NA,NA,NA,Soho
+The Cuckoo Club,International,2,NA,NA,NA,Mayfair
+Sports Bar & Grill Piccadilly Circus,American,2,28,3.6,NA,Piccadilly
+Martha's Soho,American,2,16,NA,NA,Soho
+Terrace Grill and Bar,British,3,1749,4.1,NA,Piccadilly
+Dehesa,Tapas / Small Plates,3,29,4.4,NA,Soho
+Social Eating House,Contemporary British,3,2230,4.3,NA,Soho
+Tank & Paddle Heddon Street,Pizzeria,2,45,4.3,NA,Piccadilly
+Evelyn's Table,Italian,4,222,4.8,NA,Soho
+Jakata,Modern European,2,NA,NA,NA,Covent Garden
+Carnaby Zebrano,Modern European,2,52,3.6,NA,Soho
+Imad's Syrian Kitchen,Syrian,2,NA,NA,NA,Soho
+The Mulwray,Wine Bar,2,NA,NA,NA,Soho
+Mediterranean Café,Mediterranean,2,299,4.1,NA,Soho
+Yuu Kitchen at ICEBAR London,Southeast Asian,3,9,4.2,NA,Mayfair
+Casa Do Frango Heddon St,Rotisserie Chicken,2,NA,NA,NA,Mayfair
+Tapas Brindisa Rupert Street,Spanish,2,356,4.1,NA,Piccadilly
+Rudy's Neapolitan Pizza,Pizzeria,2,NA,NA,NA,Soho
+Rice Coming - Chinatown,Chinese,2,2,3.9,NA,Soho
+Vesuvio Restaurant,Italian,2,8,3.9,NA,Soho
+Peperoncino,Italian,2,8,3.8,NA,Piccadilly
+Pizza Toscana,Italian,2,306,4.2,NA,Soho
+Princi - Shaftesbury Avenue.,Italian,2,9,4.0,NA,Soho
+HO Modern Vietnamese - Permanently Closed,Vietnamese,3,84,3.8,NA,Soho
+The Araki,Sushi,2,NA,NA,NA,Oxford Circus
+The Long Acre,British,2,26,3.2,NA,Covent Garden
+Bar Salsa!,Latin American,2,85,3.5,NA,Leicester Square
+Loop Bar,British,2,1199,4.0,NA,Oxford Circus
+College Arms,Pub,2,NA,NA,NA,Fitzrovia
+Lady of the Grapes,Wine Bar,3,69,4.4,NA,Covent Garden
+Scoff & Banter - Bloomsbury,British,2,360,3.8,NA,Bloomsbury
+Lucky Cat - Kori Kitchen Table,Asian,4,NA,NA,NA,Mayfair
+Afternoon Tea at The May Fair Hotel,Afternoon Tea,4,137,4.4,NA,Mayfair
+KILN,Thai,2,NA,NA,NA,London Bridge
+Foxlow Soho,British,2,600,4.3,NA,Soho
+Bob Bob Ricard,American,2,NA,NA,NA,Piccadilly
+El Pastor - Soho,Mexican,2,NA,NA,NA,Soho
+HIX Soho Restaurant & Bar,British,4,1856,3.9,NA,Soho
+HIX Soho – Mark’s Bar,British,2,NA,NA,NA,Soho
+MASH,Steakhouse,4,1683,4.4,NA,Soho
+Yolk - Soho,Burgers,2,NA,NA,NA,Soho
+The Queen's Head,British,2,139,4.3,NA,Piccadilly
+XU Teahouse & Restaurant,Asian,3,67,4.4,NA,Piccadilly
+Clockjack,Contemporary European,2,180,3.8,NA,Piccadilly
+"Jamie's Italian, Piccadilly",Italian,3,309,3.7,NA,Piccadilly
+Jeow Jeow,Thai,2,10,4.6,NA,Soho
+Pampushka,Eastern European,2,27,4.4,NA,Soho
+Yeni,Mediterranean,3,253,4.6,NA,Soho
+Epoc,Bar / Lounge / Bottle Service,2,NA,NA,NA,Soho
+Wild Rice London,Thai,3,53,4.0,NA,Soho
+Ramo Ramen - Soho,Filipino,2,NA,NA,NA,Soho
+Polpo London,Italian,2,NA,NA,NA,London Bridge
+NOPI,Mediterranean,4,5888,4.5,NA,Soho
+"NOPI - Downstairs, Sharing Tables",Mediterranean,4,1762,4.5,NA,Soho
+Afternoon Tea at the Soho Sanctum Hotel,Afternoon Tea,3,6,3.2,NA,Soho
+El Camion Soho,Mexican,2,384,4.0,NA,Covent Garden
+Oka Kingly Court,Japanese,3,774,4.6,NA,Oxford Circus
+Sophie's Steakhouse Soho,Steakhouse,2,362,4.2,NA,Soho
+Wildheart,British,3,13,3.9,NA,Soho
+Ma' Plucker,American,2,32,3.6,NA,Soho
+The Warwick,British,2,25,3.2,NA,Piccadilly
+Cutter & Squidge,Afternoon Tea,3,457,4.3,NA,Soho
+Afternoon Tea at the Potion Room,Afternoon Tea,4,NA,NA,NA,Soho
+Signature Afternoon Tea at Cutter & Squidge,Afternoon Tea,3,NA,NA,NA,Soho
+The Domino Room,British,4,2,4.4,NA,Piccadilly
+Jewel Piccadilly,Bar / Lounge / Bottle Service,2,5,NA,NA,Piccadilly
+Green Bar at Hotel Cafe Royal - permanently closed,Contemporary American,2,3,4.4,NA,Piccadilly
+Magnum Pleasure Store: Chef's Table,Dessert,2,34,4.6,NA,Soho
+The Sky Bar & Lounge,Bar / Lounge / Bottle Service,2,NA,NA,NA,Soho
+Yoobi Soho,International,2,2,3.4,NA,Soho
+Mildred's - Soho,Vegetarian / Vegan,2,NA,NA,NA,Soho
+Yalla Yalla Soho,Middle Eastern,2,12,4.3,NA,Soho
+Rita's,Cafe Dining,2,NA,NA,NA,Soho
+Grace,British,2,1168,3.9,NA,Piccadilly
+Afternoon Tea in the Domino Room,Afternoon Tea,4,7,4.6,NA,Piccadilly
+Mister Lasagna,Italian,2,23,3.4,NA,Soho
+Paradise,Sri Lankan,2,NA,NA,NA,Soho
+Le Bab,Middle Eastern,2,64,4.1,NA,Soho
+Figaro's,French,2,NA,NA,NA,Soho
+Senor Ceviche - Carnaby,Peruvian,3,417,4.6,NA,Oxford Circus
+Stax Diner,Burgers,2,3,4.8,NA,Soho
+Yoshino,Japanese,2,NA,NA,NA,Piccadilly
+Benihana Piccadilly,Japanese,3,5661,4.6,NA,Piccadilly
+Rumours,European,3,88,3.2,NA,Mayfair
+Gaucho Training School,American,2,NA,NA,NA,Piccadilly
+Ziggy Green,Australian,3,5,4.2,NA,Oxford Circus
+Fratelli la Bufala,Italian,2,NA,NA,NA,Piccadilly
+Moo Cantina Soho,Argentinian,2,NA,NA,NA,Soho
+Polpetto,Italian,3,11,4.2,NA,Soho
+Fallow,British,3,NA,NA,NA,Mayfair
+The Duck and Rice,Asian,2,67,4.4,NA,Soho
+Pacific Restaurant,Japanese,2,9,4.4,NA,Mayfair
+Magpie,Modern European,3,152,4.5,NA,Mayfair
+Fortnum & Mason - Wine Bar,British,2,573,4.2,NA,Piccadilly
+Terrace at The Dilly,International,2,NA,NA,NA,Mayfair
+Piccolino Heddon Street,Italian,3,453,4.0,NA,Oxford Circus
+Aubaine Heddon Street,French,3,544,3.7,NA,Piccadilly
+Cafe Monico,International,2,1590,4.2,NA,Soho
+Bentley's Oyster Bar & Grill,Seafood,3,2888,4.3,NA,Piccadilly
+Sabor,Spanish,2,NA,NA,NA,Piccadilly
+Pickle & Toast,Unspecified,2,NA,NA,NA,Soho
+The Cuckoo Club,International,2,NA,NA,NA,Mayfair
+Sports Bar & Grill Piccadilly Circus,American,2,28,3.6,NA,Piccadilly
+Martha's Soho,American,2,16,NA,NA,Soho
+Terrace Grill and Bar,British,3,1749,4.1,NA,Piccadilly
+Dehesa,Tapas / Small Plates,3,29,4.4,NA,Soho
+Social Eating House,Contemporary British,3,2230,4.3,NA,Soho
+Tank & Paddle Heddon Street,Pizzeria,2,45,4.3,NA,Piccadilly
+Evelyn's Table,Italian,4,222,4.8,NA,Soho
+Jakata,Modern European,2,NA,NA,NA,Covent Garden
+Carnaby Zebrano,Modern European,2,52,3.6,NA,Soho
+Imad's Syrian Kitchen,Syrian,2,NA,NA,NA,Soho
+The Mulwray,Wine Bar,2,NA,NA,NA,Soho
+Mediterranean Café,Mediterranean,2,299,4.1,NA,Soho
+Yuu Kitchen at ICEBAR London,Southeast Asian,3,9,4.2,NA,Mayfair
+Casa Do Frango Heddon St,Rotisserie Chicken,2,NA,NA,NA,Mayfair
+Tapas Brindisa Rupert Street,Spanish,2,356,4.1,NA,Piccadilly
+Rudy's Neapolitan Pizza,Pizzeria,2,NA,NA,NA,Soho
+Rice Coming - Chinatown,Chinese,2,2,3.9,NA,Soho
+Vesuvio Restaurant,Italian,2,8,3.9,NA,Soho
+Peperoncino,Italian,2,8,3.8,NA,Piccadilly
+Pizza Toscana,Italian,2,306,4.2,NA,Soho
+Princi - Shaftesbury Avenue.,Italian,2,9,4.0,NA,Soho
+HO Modern Vietnamese - Permanently Closed,Vietnamese,3,84,3.8,NA,Soho
+The Araki,Sushi,2,NA,NA,NA,Oxford Circus

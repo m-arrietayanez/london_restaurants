@@ -40,7 +40,7 @@ driver.get(url)
 page = collected = 0
 
 # only navigating until page 4
-while page < 4:
+while page < 10:
     sleep(1)
     new_data = parse_html(driver.page_source)
     if new_data.empty:
