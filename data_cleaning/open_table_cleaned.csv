@@ -1,0 +1,320 @@
+,names,cuisine,price,reviews,rating,address
+0,Seasons Mayfair,Seafood,4,41.0,4.3,Mayfair
+1,Papa L'S Kitchen,African,4,257.0,4.6,St. James's
+2,Coqbull Soho,Rotisserie Chicken,2,175.0,4.1,Soho
+3,Ham Yard Bar And Restaurant,Modern European,2,3696.0,4.6,Soho
+4,El Norte,Spanish,4,296.0,4.5,Mayfair
+5,Park Row,Modern European,4,485.0,4.6,Soho
+6,Bill'S Restaurant & Bar - Soho,British,2,1289.0,4.2,Soho
+7,Whitcomb'S,French,4,193.0,4.6,Leicester Square
+8,Temper Soho,Steak,4,3083.0,4.2,Soho
+9,Maoz Soho,Middle Eastern,2,231.0,4.3,Soho
+11,Happy,Modern European,2,1498.0,4.4,Leicester Square
+12,Gaucho Piccadilly,Steak,4,10083.0,4.2,Piccadilly
+13,Pierre Victoire,French,2,4365.0,4.6,Soho
+14,Forty Dean Street,Italian,3,2183.0,4.5,Soho
+15,Tamarind Kitchen,Indian,3,1057.0,4.6,Soho
+16,Fishworks - Swallow Street,Seafood,2,2750.0,4.4,Piccadilly
+17,Robata,Japanese,3,953.0,4.4,Soho
+18,Prix Fixe Brasserie,French,3,2877.0,4.5,Soho
+19,Sarap Bistro,Filipino,4,72.0,4.6,Mayfair
+20,Heddon Street Kitchen,Modern European,3,2213.0,4.2,Piccadilly
+21,Farzi Cafe,Indian,3,892.0,4.3,Piccadilly
+22,Lobos Meat & Tapas - Soho,Spanish,2,1503.0,4.5,Soho
+23,Rowley'S Restaurant,British,4,1900.0,4.5,Piccadilly
+24,Estiatorio Milos – London,Seafood,4,1473.0,4.6,Piccadilly
+25,Vasco & Piero'S Pavilion Restaurant,Italian,3,1109.0,4.6,Soho
+27,Orient London,Chinese,2,772.0,4.5,Soho
+28,Zima Russian Restaurant,Russian,3,683.0,4.7,Soho
+29,Kanishka,Indian,4,1085.0,4.4,Mayfair
+30,Ino Gastrobar,Greek,3,98.0,4.5,Soho
+31,Pix Carnaby,Spanish,2,443.0,4.1,Soho
+32,Refuel Restaurant At The Soho Hotel,Modern European,2,2619.0,4.5,Soho
+33,Ruby'S Soho,British,2,262.0,4.0,Soho
+34,The Rainforest Cafe London,American,3,3091.0,,Piccadilly
+35,Aqua Kyoto,Japanese,4,613.0,4.4,Soho
+36,Sola Soho,American,4,124.0,4.6,Soho
+37,Macellaio Rc Soho,Steak,3,55.0,4.3,Soho
+38,Suvlaki Soho,Greek,2,739.0,4.6,Soho
+39,Red Dog Saloon Soho,American,2,642.0,4.0,Soho
+40,The Good Egg Soho,Middle Eastern,2,396.0,4.3,Soho
+41,Patara - Soho,Thai,3,3331.0,4.4,Soho
+42,Obicà Mozzarella Bar - Poland Street,Italian,2,578.0,4.3,Oxford Circus
+43,Pix - Soho,Spanish,2,766.0,4.2,Soho
+44,Preto West End,Steak,2,574.0,3.9,Leicester Square
+45,O Ver St James,Italian,3,113.0,4.4,Piccadilly
+46,Baoziinn - Romilly Street,Chinese,2,767.0,3.9,Soho
+47,Inamo - Soho,Japanese,3,4538.0,3.3,Soho
+48,8 At The Londoner,Japanese,4,96.0,4.3,Soho
+49,Cecconi'S Pizza Bar,Italian,2,392.0,4.3,Soho
+50,Co&Ko,Korean,2,168.0,4.4,Soho
+51,Bubba Gump Shrimp Co London,American,2,935.0,,Piccadilly
+53,Aqua Nueva,Spanish,4,285.0,4.3,Soho
+54,Bistro 1 Soho,Middle Eastern,2,42.0,4.4,Soho
+55,Bosporus,Middle Eastern,3,313.0,3.9,Leicester Square
+56,Jam Delish@ The Sun & 13 Cantons,Caribbean,3,2.0,3.0,Soho
+57,Poppies Soho,Seafood,2,19.0,4.3,Soho
+58,Heliot Steak House,Steak,3,3013.0,4.6,Leicester Square
+60,Aquavit London,Nordic,3,1030.0,4.5,St. James's
+61,Rooms By The Hour,Spanish,2,51.0,4.3,Soho
+62,Granaio Piccadilly,Italian,2,32.0,,Leicester Square
+63,Field By Fortnum'S,British,3,15.0,3.7,Piccadilly
+64,The Stage At The Londoner,Modern European,4,12.0,4.3,Soho
+65,100 Wardour St Bar & Lounge,Modern European,3,315.0,4.0,Soho
+66,Soho Wala,Indian,2,95.0,3.1,Soho
+67,Maison Francois,French,4,8.0,4.3,St. James's
+68,Amici Lounge Bar & Restaurant,Middle Eastern,3,2.0,,Soho
+69,Mayfair Lounge And Grill,British,3,600.0,,Piccadilly
+70,Lords,American,2,3.0,4.0,Soho
+71,Soho Zebrano,Burgers,2,35.0,3.5,Soho
+72,Temper Covent Garden,Steak,3,1224.0,4.3,Covent Garden
+73,Foley'S Restaurant,Asian,3,284.0,4.6,Fitzrovia
+74,J Sheekey - The Restaurant,Seafood,4,1207.0,4.6,Covent Garden
+75,Palm Court Brasserie,French,2,13335.0,4.5,Covent Garden
+76,Hakkasan - Hanway Place,Chinese,4,6341.0,4.2,Fitzrovia
+77,Maxwell'S,American,2,3351.0,4.3,Covent Garden
+78,Tamarind,Indian,4,2855.0,4.8,Mayfair
+80,Kintan Oxford Circus,Japanese,2,1334.0,4.5,Oxford Circus
+82,Le Garrick - Covent Garden,French,2,3091.0,4.6,Covent Garden
+83,Brumus - Haymarket,British,2,2582.0,4.6,Piccadilly
+84,Mr White'S Leicester Square,International,2,151.0,4.0,Charing Cross
+85,La Rampa,Latin American,3,176.0,4.5,Oxford Circus
+86,Bocconcino,Italian,3,1522.0,4.0,Mayfair
+87,Flesh & Buns Oxford Circus,Japanese,3,1035.0,4.5,Oxford Circus
+88,The Riding House Cafe,Modern European,3,3874.0,4.4,Fitzrovia
+89,The Nomad London,American,3,399.0,4.7,Covent Garden
+90,Bagatelle London,French,4,181.0,4.4,Mayfair
+91,Manthan,Indian,3,64.0,4.4,Oxford Circus
+93,Ginza St. James'S,Japanese,4,116.0,4.1,Piccadilly
+94,123V,Vegetarian / Vegan,2,355.0,4.6,Oxford Circus
+95,Vespa,Italian,2,206.0,4.4,Leicester Square
+96,Portland Restaurant,British,4,1397.0,4.8,Marylebone
+98,Lima London,Peruvian,3,1419.0,4.5,Fitzrovia
+99,Plants By Deliciously Ella,Vegetarian / Vegan,3,716.0,4.4,Mayfair
+200,House Of Ho - Fitzrovia,Pan-Asian,2,241.0,4.5,Fitzrovia
+201,Brasserie Max - Covent Garden,British,2,939.0,4.6,Leicester Square
+202,Bloomsbury Street Kitchen,Mediterranean,3,197.0,4.5,Bloomsbury
+203,The Rooftop At The Hippodrome Casino,International,4,190.0,4.5,Leicester Square
+205,Aubaine Mayfair,French,3,806.0,4.0,Green Park
+206,Floral By Lima,Peruvian,3,1094.0,4.3,Covent Garden
+207,Ekstedt At The Yard,Nordic,4,116.0,4.7,Westminster
+208,Sergios,Italian,3,815.0,4.7,Fitzrovia
+210,Fatt Pundit Covent Garden,Indian,2,75.0,4.4,Aldwych
+211,Le Boudin Blanc,French,3,1200.0,4.7,Mayfair
+212,Blind Spot London,British,3,226.0,4.5,Covent Garden
+213,L'Ulivo Villiers Street,Italian,3,953.0,4.3,Charing Cross
+214,Prima Sapori D'Italia,Italian,2,408.0,4.3,Covent Garden
+215,Bab Mansour,Mediterranean,2,17.0,4.8,Holborn
+216,Madera At Treehouse London,Mexican,4,135.0,4.4,Marylebone
+217,Titu,Japanese,3,252.0,4.6,Mayfair
+218,Leicester Square Kitchen,Mexican,4,1324.0,4.5,Leicester Square
+220,Big Easy Covent Garden,American,3,6760.0,3.4,Covent Garden
+222,The Northall At Corinthia London,Modern European,3,2814.0,4.6,Covent Garden
+223,Gordon Ramsay Street Burger — Covent Garden,Burgers,2,149.0,4.3,Aldwych
+224,Mariage Frères,French,2,186.0,4.6,Covent Garden
+225,Oscar Restaurant,Modern European,2,597.0,4.4,Fitzrovia
+226,Beast,Steak,4,417.0,4.6,Oxford Circus
+227,Gordon Ramsay Street Burger — Charing Cross Road,Burgers,2,180.0,4.0,Bank
+228,Giannino Mayfair,Italian,4,125.0,4.6,Mayfair
+229,Redfarm,Chinese,3,417.0,4.6,Covent Garden
+231,The Footman - Mayfair,British,2,184.0,4.5,Mayfair
+232,Moc Kitchen,Vietnamese,2,164.0,4.5,Charing Cross
+233,45 Jermyn St.,British,4,1305.0,4.7,St. James's
+234,Kazu,Japanese,4,221.0,4.5,Fitzrovia
+235,L'Artiste Muscle,French,2,89.0,4.6,Mayfair
+236,Antipodea Richmond,Australian,2,309.0,4.3,Richmond
+237,Kurobuta Fitzrovia,Modern Asian,4,12.0,4.6,Fitzrovia
+239,The 40 Elephants,Cocktail Bar,3,44.0,4.8,Westminster
+240,In Parma By Food Roots,Italian,2,349.0,4.4,Fitzrovia
+241,Al Hamra,Middle Eastern,3,276.0,4.4,Mayfair
+242,Gaucho Charlotte Street,Steak,4,1834.0,4.4,Fitzrovia
+243,Bond Street Kitchen,British,3,120.0,4.3,Mayfair
+244,Beso London,Italian,2,360.0,4.1,Covent Garden
+245,Mother Mash Covent Garden,British,2,18.0,3.8,Trafalgar Square
+246,Greyhound Cafe,Thai,3,237.0,4.4,Fitzrovia
+247,Ousia,Greek,2,95.0,4.6,Fitzrovia
+248,Itaku,Japanese,3,6.0,3.6,Fitzrovia
+250,Bobo Social Fitzrovia,International,2,19.0,4.8,Fitzrovia
+251,Archipelago,International,4,396.0,4.6,Fitzrovia
+252,Chesterfield Arms,British,2,24.0,4.5,Mayfair
+253,Bisushima,Japanese,3,12.0,4.3,Charing Cross
+254,May Fair Bar,International,3,50.0,4.3,Mayfair
+255,The Restaurant At St Martins Lane London,British,3,118.0,3.5,Leicester Square
+256,Caviar House & Prunier,Seafood,3,83.0,4.8,Green Park
+257,The Rooftop,Modern European,3,413.0,3.6,St. James's
+258,Rockwell,Cocktail Bar,3,62.0,4.2,St. James's
+259,Queens Of Mayfair,British,2,47.0,4.1,Mayfair
+260,The Garden At Corinthia London,Modern European,2,181.0,4.6,Charing Cross
+261,Comptoir Café And Wine,Mediterranean,2,93.0,4.6,Mayfair
+262,Al Sultan,Middle Eastern,3,181.0,4.2,Green Park
+263,Stringfellows - Gentleman'S Club And Restaurant,Modern European,4,17.0,4.3,Covent Garden
+264,Spaghetti House Goodge Street,Italian,2,85.0,4.1,Fitzrovia
+265,Spaghetti House Woodstock Street,Italian,2,21.0,4.0,Mayfair
+266,Noura Mayfair,Middle Eastern,3,129.0,3.9,Mayfair
+267,Savoir Faire,French,2,2341.0,4.0,Covent Garden
+268,Rai,Japanese,4,3.0,3.7,Fitzrovia
+269,1857 The Bar,British,2,42.0,4.0,Green Park
+270,Afternoon Tea At Caffe Concerto - Northumberland Av,Italian,2,27.0,3.7,Piccadilly
+274,Hachi Japanese Bbq Restaurant,Japanese,2,268.0,4.6,Soho
+275,Brasserie Zedel,French,2,3148.0,4.5,Piccadilly
+276,The Monarch Theatre At Park Row,International,4,27.0,4.9,Soho
+277,Mele E Pere,Italian,2,1694.0,4.4,Soho
+278,Blacklock Soho,Steak,2,3767.0,4.8,Soho
+279,Hawksmoor Air Street,Steak,2,9296.0,4.7,Piccadilly
+280,Hard Rock Cafe London Piccadilly Circus,American,2,3362.0,4.6,Piccadilly
+281,Engawa Restaurant,Japanese,4,778.0,4.5,Soho
+283,Andrew Edmunds,Modern European,3,710.0,4.7,Soho
+284,Sticks'N'Sushi - Soho,Japanese,2,23.0,4.7,Soho
+285,Folie,French,3,53.0,4.5,Soho
+286,Old Compton Brasserie,British,2,1934.0,4.5,Soho
+288,Yauatcha Soho,Chinese,3,6691.0,4.3,Soho
+290,Jinjuu Soho,Korean,3,1747.0,4.5,Soho
+291,Dean Street Townhouse,British,3,2975.0,4.6,Soho
+292,Madhu’S Of Mayfair,Indian,4,317.0,4.4,Mayfair
+293,Tendril - A (Mostly) Vegan Kitchen,Vegetarian / Vegan,2,47.0,4.6,Soho
+294,Cecconi'S,Italian,3,1852.0,4.6,Mayfair
+295,Inko Nito London,Japanese,3,10.0,4.8,Soho
+296,Gauthier Soho,French,4,3735.0,4.8,Soho
+297,L'Escargot,French,3,3394.0,4.6,Soho
+298,Imperial Treasure,Chinese,4,532.0,4.5,Piccadilly
+299,Negroni'S,Italian,3,110.0,4.5,Soho
+300,Lucky Cat By Gordon Ramsay,Asian,4,694.0,4.3,Mayfair
+301,Saint Jacques,French,4,227.0,4.7,St. James's
+302,Quaglino'S,Modern European,3,1511.0,4.3,Green Park
+303,La Goccia,Italian,4,1336.0,4.5,Covent Garden
+304,Jamavar,Indian,4,919.0,4.7,Mayfair
+306,"The Petersham, Covent Garden",Italian,4,1145.0,4.4,Covent Garden
+307,2 Veneti,Italian,3,1356.0,4.6,Mayfair
+308,Côte Brasserie - St Martin'S Lane,French,2,18.0,4.1,Leicester Square
+309,Bardo St James’S,Italian,4,5.0,4.5,Charing Cross
+310,Inamo - Covent Garden,Asian,3,4269.0,3.6,Covent Garden
+312,Le Comptoir Robuchon,French,4,28.0,4.9,Mayfair
+314,American Bar Restaurant,Modern European,3,702.0,4.3,Covent Garden
+316,Kikuchi,Japanese,4,153.0,4.8,Fitzrovia
+317,It London,Mediterranean,4,27.0,4.0,Mayfair
+318,"Les 110 De Taillevent, London",French,3,266.0,4.8,Oxford Circus
+320,Langan'S Brasserie,British,4,4248.0,4.4,Green Park
+321,Arros Qd,Mediterranean,3,96.0,4.3,Fitzrovia
+322,Roka - Charlotte Street,Japanese,4,190.0,4.7,Fitzrovia
+324,Thai Square Covent Garden,Thai,3,530.0,4.4,Leicester Square
+325,Bindas Eatery- Mayfair,Indian,2,113.0,4.1,Mayfair
+326,Com Viet,Vietnamese,2,524.0,4.5,Covent Garden
+327,Meraki Restaurant,Greek,4,117.0,4.7,Fitzrovia
+328,The Game Bird,British,4,481.0,4.6,Green Park
+329,Fumo,Italian,2,121.0,4.4,Covent Garden
+330,Yalla Yalla Winsley St,Middle Eastern,2,88.0,4.3,Marylebone
+331,Delfino Restaurant,Italian,2,550.0,4.6,Mayfair
+332,Sotheby’S Restaurant,Modern European,3,50.0,4.7,Mayfair
+333,Berkshire Lounge Bar,British,3,1.0,4.5,Oxford Circus
+334,Bellamy'S,Modern European,3,281.0,4.6,Mayfair
+337,Murano,Modern European,4,2089.0,4.6,Mayfair
+338,Afternoon Tea At Caffe Concerto Green Park,Italian,2,20.0,3.8,Green Park
+339,Ormer Mayfair,British,4,933.0,4.9,Mayfair
+340,Gbr - Great British Restaurant @ Dukes London,British,2,383.0,4.6,St. James's
+342,Hélène Darroze At The Connaught,French,4,752.0,4.6,Mayfair
+344,Thai Square Trafalgar Square,Thai,3,1766.0,3.9,Charing Cross
+347,The Jones Family Affair,Steak,3,6.0,4.9,Charing Cross
+348,Kerridge’S Bar & Grill,British,3,80.0,4.6,Westminster
+349,Da Paolo Restaurant,Italian,3,884.0,4.7,Fitzrovia
+350,Locket'S,Modern European,2,5.0,4.2,St. James's
+351,Manetta'S Bar,British,2,76.0,4.9,Mayfair
+352,Punjab Restaurant,Indian,2,80.0,4.6,Holborn
+353,Pahli Hill,Indian,3,11.0,4.7,Fitzrovia
+355,Palms Of Goa,Indian,2,12.0,4.6,Fitzrovia
+356,The Wine Place Covent Garden,Italian,2,115.0,4.6,Soho
+359,Sticks'N'Sushi - Covent Garden,Japanese,2,20.0,4.8,Covent Garden
+360,Jean-Georges At The Connaught,Bistro,3,158.0,4.7,Mayfair
+361,Café Murano - St James,Italian,3,1730.0,4.5,St. James's
+362,Caffe Concerto Green Park,Italian,2,85.0,3.5,Green Park
+363,Pied A Terre,French,4,308.0,4.6,Fitzrovia
+364,Caffe Concerto - Whitehall,Italian,2,76.0,4.3,Piccadilly
+365,Da Henrietta,Italian,3,369.0,4.2,Covent Garden
+366,Ping Pong Covent Garden,Asian,2,94.0,4.0,Covent Garden
+367,"The Clermont Restaurant And Bar, Charing Cross",Modern European,2,29.0,4.5,Charing Cross
+368,Avenue Restaurant,Modern European,3,664.0,4.4,Green Park
+369,The Elysée,Greek,4,169.0,4.3,Fitzrovia
+370,Pizzeria Mozza,Italian,2,10.0,4.1,Oxford Circus
+371,The Crusting Pipe,British,3,381.0,4.0,Covent Garden
+372,Parsons,Seafood,3,264.0,4.7,Covent Garden
+373,Champagne Charlies,British,3,340.0,3.9,Charing Cross
+374,Chefs Table At Lucky Cat By Gordon Ramsay,Asian,4,20.0,4.8,Mayfair
+375,Noizé,Modern European,4,120.0,4.8,Fitzrovia
+377,Salvador And Amanda Covent Garden,Spanish,2,478.0,4.1,Leicester Square
+378,The Foyer & Reading Rooms At Claridge’S,Modern European,3,284.0,4.8,Mayfair
+379,Caffé Concerto - Oxford Street,Italian,2,12.0,3.4,Mayfair
+380,Mamounia Lounge - Mayfair,Middle Eastern,3,241.0,3.7,Mayfair
+381,Koba,Korean,3,1327.0,4.7,Soho
+382,Pane Cunzato,Italian,2,23.0,4.6,Bloomsbury
+385,Giotto Restaurant,Italian,2,91.0,4.0,Covent Garden
+386,Phoenix Arts Club,British,2,293.0,4.4,Soho
+388,Davy'S St James,British,3,79.0,3.9,St. James's
+389,Wild Honey Terrace At Sofitel,Mediterranean,3,17.0,4.6,Charing Cross
+390,Spaghetti House Cranbourn Street,Italian,2,99.0,3.8,Leicester Square
+391,Henry'S Cafe Bar Piccadilly,British,3,1.0,4.5,Green Park
+392,Afternoon Tea At Caffe Concerto Whitehall,Italian,2,22.0,3.9,Leicester Square
+393,The Arber Garden,British,3,695.0,4.3,Fitzrovia
+395,Butlers At The Chesterfield,British,3,257.0,4.1,Mayfair
+396,1989 Clubhouse,Pan-Asian,2,1.0,,Covent Garden
+397,Tea And Tattle,British,3,66.0,4.4,Bloomsbury
+398,Norma London,Italian,3,20.0,4.5,Fitzrovia
+399,Quaglino'S Bar,Modern European,2,7.0,4.5,Green Park
+400,The Long Acre,British,2,26.0,3.2,Covent Garden
+401,Bar Salsa!,Latin American,2,85.0,3.5,Leicester Square
+402,Loop Bar,British,2,1199.0,4.0,Oxford Circus
+405,Scoff & Banter - Bloomsbury,British,2,360.0,3.8,Bloomsbury
+409,Foxlow Soho,British,2,600.0,4.3,Soho
+412,Hix Soho Restaurant & Bar,British,4,1856.0,3.9,Soho
+414,Mash,Steak,4,1683.0,4.4,Soho
+416,The Queen'S Head,British,2,139.0,4.3,Piccadilly
+417,Xu Teahouse & Restaurant,Asian,3,67.0,4.4,Piccadilly
+418,Clockjack,Modern European,2,180.0,3.8,Piccadilly
+419,"Jamie'S Italian, Piccadilly",Italian,3,309.0,3.7,Piccadilly
+420,Jeow Jeow,Thai,2,10.0,4.6,Soho
+421,Pampushka,Eastern European,2,27.0,4.4,Soho
+422,Yeni,Mediterranean,3,253.0,4.6,Soho
+424,Wild Rice London,Thai,3,53.0,4.0,Soho
+427,Nopi,Mediterranean,4,5888.0,4.5,Soho
+428,"Nopi - Downstairs, Sharing Tables",Mediterranean,4,1762.0,4.5,Soho
+430,El Camion Soho,Mexican,2,384.0,4.0,Covent Garden
+431,Oka Kingly Court,Japanese,3,774.0,4.6,Oxford Circus
+432,Sophie'S Steakhouse Soho,Steak,2,362.0,4.2,Soho
+433,Wildheart,British,3,13.0,3.9,Soho
+434,Ma' Plucker,American,2,32.0,3.6,Soho
+435,The Warwick,British,2,25.0,3.2,Piccadilly
+439,The Domino Room,British,4,2.0,4.4,Piccadilly
+441,Green Bar At Hotel Cafe Royal - Permanently Closed,Contemporary American,2,3.0,4.4,Piccadilly
+444,Yoobi Soho,International,2,2.0,3.4,Soho
+446,Yalla Yalla Soho,Middle Eastern,2,12.0,4.3,Soho
+448,Grace,British,2,1168.0,3.9,Piccadilly
+450,Mister Lasagna,Italian,2,23.0,3.4,Soho
+452,Le Bab,Middle Eastern,2,64.0,4.1,Soho
+454,Senor Ceviche - Carnaby,Peruvian,3,417.0,4.6,Oxford Circus
+455,Stax Diner,Burgers,2,3.0,4.8,Soho
+457,Benihana Piccadilly,Japanese,3,5661.0,4.6,Piccadilly
+458,Rumours,Modern European,3,88.0,3.2,Mayfair
+460,Ziggy Green,Australian,3,5.0,4.2,Oxford Circus
+463,Polpetto,Italian,3,11.0,4.2,Soho
+465,The Duck And Rice,Asian,2,67.0,4.4,Soho
+466,Pacific Restaurant,Japanese,2,9.0,4.4,Mayfair
+467,Magpie,Modern European,3,152.0,4.5,Mayfair
+468,Fortnum & Mason - Wine Bar,British,2,573.0,4.2,Piccadilly
+470,Piccolino Heddon Street,Italian,3,453.0,4.0,Oxford Circus
+471,Aubaine Heddon Street,French,3,544.0,3.7,Piccadilly
+472,Cafe Monico,International,2,1590.0,4.2,Soho
+473,Bentley'S Oyster Bar & Grill,Seafood,3,2888.0,4.3,Piccadilly
+477,Sports Bar & Grill Piccadilly Circus,American,2,28.0,3.6,Piccadilly
+478,Martha'S Soho,American,2,16.0,,Soho
+479,Terrace Grill And Bar,British,3,1749.0,4.1,Piccadilly
+480,Dehesa,Spanish,3,29.0,4.4,Soho
+481,Social Eating House,British,3,2230.0,4.3,Soho
+482,Tank & Paddle Heddon Street,Italian,2,45.0,4.3,Piccadilly
+483,Evelyn'S Table,Italian,4,222.0,4.8,Soho
+485,Carnaby Zebrano,Modern European,2,52.0,3.6,Soho
+488,Mediterranean Café,Mediterranean,2,299.0,4.1,Soho
+489,Yuu Kitchen At Icebar London,Southeast Asian,3,9.0,4.2,Mayfair
+491,Tapas Brindisa Rupert Street,Spanish,2,356.0,4.1,Piccadilly
+493,Rice Coming - Chinatown,Chinese,2,2.0,3.9,Soho
+494,Vesuvio Restaurant,Italian,2,8.0,3.9,Soho
+495,Peperoncino,Italian,2,8.0,3.8,Piccadilly
+496,Pizza Toscana,Italian,2,306.0,4.2,Soho
+497,Princi - Shaftesbury Avenue.,Italian,2,9.0,4.0,Soho
